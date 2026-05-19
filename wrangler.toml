@@ -1,0 +1,14 @@
+name = "bursa-volume-spike-tracker"
+main = "cloudflare-worker.mjs"
+compatibility_date = "2026-05-19"
+
+[vars]
+THRESHOLD_MULTIPLIER = "3"
+ALERT_FROM = "Bursa Alert <alerts@example.com>"
+ALERT_TO = "alerts@example.com"
+BURSA_UNIVERSE_URL = "https://huggingface.co/datasets/ThunderDrag/Malaysia-Stock-Symbols-and-Metadata/resolve/main/malaysia.csv"
+YAHOO_CHART_URL = "https://query1.finance.yahoo.com/v8/finance/chart"
+YAHOO_SEARCH_URL = "https://query2.finance.yahoo.com/v1/finance/search"
+
+# Set this as a secret, not in this file:
+# wrangler secret put RESEND_API_KEY
