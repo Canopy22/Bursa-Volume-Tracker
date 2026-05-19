@@ -1,4 +1,5 @@
 const DEFAULT_CONCURRENCY = 8;
+const DEFAULT_BATCH_SIZE = 12;
 
 export default {
   async fetch(request, env) {
@@ -13,7 +14,10 @@ export default {
         const body = await request.json().catch(() => ({}));
         const threshold = parsePositiveNumber(body.threshold, env.THRESHOLD_MULTIPLIER ?? 3);
         const universe = await loadBursaUniverse(env);
-        const scanUniverse = body.limit ? universe.slice(0, Number(body.limit)) : universe;
+        const offset = Math.max(0, Number(body.offset ?? 0));
+        const requestedBatchSize = Number(body.batchSize ?? body.limit ?? DEFAULT_BATCH_SIZE);
+        const batchSize = Math.min(Math.max(1, requestedBatchSize), DEFAULT_BATCH_SIZE);
+        const scanUniverse = universe.slice(offset, offset + batchSize);
         const symbolCache = {};
 
         const checkedAt = new Date().toISOString();
@@ -36,6 +40,9 @@ export default {
           source: "All Bursa companies from the auto-loaded company universe",
           totalCompanies: universe.length,
           checkedCompanies: scanUniverse.length,
+          offset,
+          nextOffset: offset + scanUniverse.length,
+          done: offset + scanUniverse.length >= universe.length,
           results,
           alerts: results.filter((result) => result.isSpike)
         });
@@ -243,7 +250,7 @@ function renderHome(env) {
   <main>
     <section>
       <h1>Bursa Volume Spike Tracker</h1>
-      <p>Scans all Bursa-listed companies and shows only stocks where latest volume is at least the threshold times the prior 20 trading-day average.</p>
+      <p>Scans all Bursa-listed companies in cloud-safe batches and shows only stocks where latest volume is at least the threshold times the prior 20 trading-day average.</p>
       <label>Threshold <input id="threshold" type="number" min="1" step="0.5" value="${threshold}"></label>
       <label>Alert email <input id="email" type="email" placeholder="${env.ALERT_TO ?? "you@example.com"}"></label>
       <button id="scan">Scan All Bursa Stocks</button>
@@ -270,17 +277,26 @@ function renderHome(env) {
     let currentThreshold = ${threshold};
     scanBtn.onclick = async () => {
       scanBtn.disabled = true; sendBtn.disabled = true; statusEl.textContent = "Scanning all Bursa companies. This can take a few minutes...";
-      const res = await fetch("/api/check", {method:"POST", headers:{"Content-Type":"application/json"}, body:JSON.stringify({threshold:document.querySelector("#threshold").value})});
-      const data = await res.json();
+      currentAlerts = []; currentThreshold = Number(document.querySelector("#threshold").value || ${threshold});
+      let offset = 0; let total = 0; let checked = 0; let checkedAt = new Date().toISOString();
+      resultsEl.innerHTML = "Scanning...";
+      while (true) {
+        const res = await fetch("/api/check", {method:"POST", headers:{"Content-Type":"application/json"}, body:JSON.stringify({threshold:currentThreshold, offset, batchSize:12})});
+        const data = await res.json();
+        if (!res.ok) { statusEl.innerHTML = '<span class="err">' + escapeHtml(data.error) + '</span>'; scanBtn.disabled = false; return; }
+        total = data.totalCompanies; checked += data.checkedCompanies; checkedAt = data.checkedAt;
+        currentAlerts.push(...data.alerts);
+        document.querySelector("#checked").textContent = checked + " / " + total;
+        document.querySelector("#alerts").textContent = currentAlerts.length;
+        document.querySelector("#time").textContent = new Date(checkedAt).toLocaleTimeString([], {hour:"2-digit", minute:"2-digit"});
+        statusEl.textContent = "Scanned " + checked + " of " + total + " companies. Alerts found: " + currentAlerts.length + ".";
+        resultsEl.innerHTML = currentAlerts.length ? currentAlerts.map(renderRow).join("") : "No spike alerts yet.";
+        if (data.done) break;
+        offset = data.nextOffset;
+      }
       scanBtn.disabled = false;
-      if (!res.ok) { statusEl.innerHTML = '<span class="err">' + escapeHtml(data.error) + '</span>'; return; }
-      currentAlerts = data.alerts; currentThreshold = data.threshold;
-      document.querySelector("#checked").textContent = data.checkedCompanies;
-      document.querySelector("#alerts").textContent = data.alerts.length;
-      document.querySelector("#time").textContent = new Date(data.checkedAt).toLocaleTimeString([], {hour:"2-digit", minute:"2-digit"});
-      statusEl.textContent = data.alerts.length ? data.alerts.length + " alerts found." : "No stocks reached the threshold.";
-      sendBtn.disabled = data.alerts.length === 0;
-      resultsEl.innerHTML = data.alerts.length ? data.alerts.map(renderRow).join("") : "No spike alerts.";
+      statusEl.textContent = currentAlerts.length ? currentAlerts.length + " alerts found across " + total + " companies." : "No stocks reached the threshold across " + total + " companies.";
+      sendBtn.disabled = currentAlerts.length === 0;
     };
     sendBtn.onclick = async () => {
       const to = emailEl.value.trim();
