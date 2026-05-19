@@ -1,0 +1,18 @@
+{
+  "thresholdMultiplier": 3,
+  "tickers": [
+    "1155.KL",
+    "1023.KL",
+    "5347.KL",
+    "5285.KL"
+  ],
+  "recipientEmail": "alerts@example.com",
+  "smtp": {
+    "host": "smtp.example.com",
+    "port": 587,
+    "secure": false,
+    "user": "smtp-user",
+    "pass": "smtp-password",
+    "from": "Bursa Volume Tracker <alerts@example.com>"
+  }
+}

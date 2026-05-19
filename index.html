@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bursa Volume Spike Tracker</title>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <main class="shell">
+      <section class="workspace" aria-label="Bursa volume tracker">
+        <div class="panel controls">
+          <div>
+            <p class="eyebrow">Bursa Malaysia</p>
+            <h1>Volume Spike Tracker</h1>
+            <p class="subcopy">Compare today’s traded volume with the previous 20 trading days and flag stocks above your alert threshold.</p>
+          </div>
+
+          <div class="universe-box">
+            <span id="universeCount">Auto universe</span>
+            <p>Scans all Bursa-listed companies automatically. No manual watchlist is needed.</p>
+          </div>
+
+          <div class="inline-fields">
+            <label>
+              Threshold
+              <input id="threshold" type="number" min="1" step="0.5" value="3">
+              <span class="field-help">3 means latest volume must be at least 3x the previous 20-day average.</span>
+            </label>
+            <label>
+              Alert email
+              <input id="email" type="email" placeholder="you@example.com">
+            </label>
+          </div>
+
+          <details class="smtp-panel">
+            <summary>SMTP settings</summary>
+            <p class="smtp-note">Optional. Without SMTP, the alert button opens an email draft in your mail app.</p>
+            <div class="smtp-grid">
+              <label>
+                Host
+                <input id="smtpHost" type="text" placeholder="smtp.gmail.com">
+              </label>
+              <label>
+                Port
+                <input id="smtpPort" type="number" min="1" value="587">
+              </label>
+              <label>
+                Username
+                <input id="smtpUser" type="text" autocomplete="username">
+              </label>
+              <label>
+                Password / app password
+                <input id="smtpPass" type="password" autocomplete="current-password">
+              </label>
+              <label class="full">
+                From email
+                <input id="smtpFrom" type="text" placeholder="Bursa Alert <you@example.com>">
+              </label>
+              <label class="checkline">
+                <input id="smtpSecure" type="checkbox">
+                Use SSL/TLS
+              </label>
+            </div>
+          </details>
+
+          <div class="actions">
+            <button id="checkButton" type="button">Scan All Bursa Stocks</button>
+            <button id="emailButton" type="button" class="secondary" disabled>Email Current Alerts</button>
+          </div>
+
+          <p id="status" class="status">Ready to scan the full Bursa company universe.</p>
+        </div>
+
+        <div class="summary-grid" aria-label="Summary">
+          <article>
+            <span id="checkedCount">0</span>
+            <p>Stocks Checked</p>
+          </article>
+          <article>
+            <span id="alertCount">0</span>
+            <p>3x Spike Alerts</p>
+          </article>
+          <article>
+            <span id="lastChecked">Not yet</span>
+            <p>Last Checked</p>
+          </article>
+        </div>
+
+        <section class="results" aria-label="Results">
+          <div class="results-head">
+            <h2>Results</h2>
+            <p>Only stocks meeting the threshold are shown</p>
+          </div>
+          <div id="resultsList" class="results-list empty">Run a scan to see Bursa volume spike alerts.</div>
+        </section>
+      </section>
+    </main>
+    <script src="/app.js"></script>
+  </body>
+</html>

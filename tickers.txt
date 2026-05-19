@@ -1,0 +1,6 @@
+# One Bursa ticker per line. Yahoo Finance Bursa symbols normally end in .KL.
+# Examples:
+1155.KL
+1023.KL
+5347.KL
+5285.KL

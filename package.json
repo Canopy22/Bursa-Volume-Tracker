@@ -1,0 +1,14 @@
+{
+  "name": "bursa-volume-spike-tracker",
+  "version": "1.0.0",
+  "description": "Track Bursa Malaysia stocks for volume spikes and send email alerts.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "check": "node tracker.mjs --dry-run",
+    "run": "node tracker.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

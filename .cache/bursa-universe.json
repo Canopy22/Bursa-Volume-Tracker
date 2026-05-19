@@ -1,0 +1,5277 @@
+[
+  {
+    "name": "OneTech Solutions Holdings Bhd.",
+    "ticker": "1TECH",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Three-A Resources Bhd.",
+    "ticker": "3A",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "3Ren Bhd",
+    "ticker": "3REN",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "99 Speed Mart Retail Holdings Bhd",
+    "ticker": "99SMART",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "A1 A.K. Koh Group Bhd.",
+    "ticker": "A1AKK",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Astral Asia Bhd.",
+    "ticker": "AASIA",
+    "sector": "Process industries"
+  },
+  {
+    "name": "AirAsia X Bhd.",
+    "ticker": "AAX",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Able Global Bhd",
+    "ticker": "ABLEGLOB",
+    "sector": "Process industries"
+  },
+  {
+    "name": "AbleGroup Bhd.",
+    "ticker": "ABLEGRP",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Alliance Bank Malaysia Bhd.",
+    "ticker": "ABMB",
+    "sector": "Finance"
+  },
+  {
+    "name": "Acme Holdings Bhd",
+    "ticker": "ACME",
+    "sector": "Finance"
+  },
+  {
+    "name": "ACO Group Bhd",
+    "ticker": "ACO",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Autocount Dotcom Bhd",
+    "ticker": "ADB",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Advancecon Holdings Bhd.",
+    "ticker": "ADVCON",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Adventa Bhd.",
+    "ticker": "ADVENTA",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "AE Multi Holdings Bhd.",
+    "ticker": "AEM",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Aemulus Holdings Bhd.",
+    "ticker": "AEMULUS",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "AEON Co. (Malaysia) Bhd.",
+    "ticker": "AEON",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "AEON Credit Service (M) Bhd.",
+    "ticker": "AEONCR",
+    "sector": "Finance"
+  },
+  {
+    "name": "Affin Bank Bhd.",
+    "ticker": "AFFIN",
+    "sector": "Finance"
+  },
+  {
+    "name": "ABM Fujiya Bhd.",
+    "ticker": "AFUJIYA",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Agmo Holdings Bhd.",
+    "ticker": "AGMO",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Agricore CS Holdings Bhd",
+    "ticker": "AGRICOR",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "AGX Group Bhd.",
+    "ticker": "AGX",
+    "sector": "Transportation"
+  },
+  {
+    "name": "AHB Holdings Bhd.",
+    "ticker": "AHB",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Apex Healthcare Bhd.",
+    "ticker": "AHEALTH",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Advance Information Marketing Bhd.",
+    "ticker": "AIM",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Aimflex Bhd.",
+    "ticker": "AIMFLEX",
+    "sector": "Technology services"
+  },
+  {
+    "name": "AIZO Group Berhad",
+    "ticker": "AIZO",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Ajinomoto (Malaysia) Bhd.",
+    "ticker": "AJI",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Ajiya Bhd.",
+    "ticker": "AJIYA",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Alam Maritim Resources Bhd.",
+    "ticker": "ALAM",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Alcom Group Bhd.",
+    "ticker": "ALCOM",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Allianz Malaysia Bhd.",
+    "ticker": "ALLIANZ",
+    "sector": "Miscellaneous"
+  },
+  {
+    "name": "Alpha IVF Group Bhd.",
+    "ticker": "ALPHA",
+    "sector": "Health services"
+  },
+  {
+    "name": "Aldrich Resources Bhd",
+    "ticker": "ALRICH",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "AMMB Holdings Bhd.",
+    "ticker": "AMBANK",
+    "sector": "Finance"
+  },
+  {
+    "name": "AME Elite Consortium Berhad",
+    "ticker": "AME",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Amlex Holdings Bhd.",
+    "ticker": "AMLEX",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Amtel Holdings Bhd.",
+    "ticker": "AMTEL",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Amway (Malaysia) Holdings Bhd.",
+    "ticker": "AMWAY",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "Analabs Resources Bhd.",
+    "ticker": "ANALABS",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Ancom Logistics Bhd.",
+    "ticker": "ANCOMLB",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Ancom Nylex Bhd",
+    "ticker": "ANCOMNY",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Aneka Jaringan Holdings Bhd",
+    "ticker": "ANEKA",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Ann Joo Resources Bhd.",
+    "ticker": "ANNJOO",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Alpha Ocean Resources Bhd.",
+    "ticker": "AORB",
+    "sector": "Process industries"
+  },
+  {
+    "name": "APB Resources Bhd.",
+    "ticker": "APB",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Apex Equity Holdings Bhd.",
+    "ticker": "APEX",
+    "sector": "Finance"
+  },
+  {
+    "name": "APM Automotive Holdings Bhd.",
+    "ticker": "APM",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Apollo Food Holdings Bhd.",
+    "ticker": "APOLLO",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "AppAsia Bhd",
+    "ticker": "APPASIA",
+    "sector": "Technology services"
+  },
+  {
+    "name": "A-Rank Bhd.",
+    "ticker": "ARANK",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "ARB Bhd.",
+    "ticker": "ARBB",
+    "sector": "Technology services"
+  },
+  {
+    "name": "ARK Resources Holdings Bhd.",
+    "ticker": "ARK",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "ARKA Bhd",
+    "ticker": "ARKA",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Bumi Armada Bhd.",
+    "ticker": "ARMADA",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Artroniq Bhd.",
+    "ticker": "ARTRONIQ",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Advance Synergy Bhd.",
+    "ticker": "ASB",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Asdion Bhd.",
+    "ticker": "ASDION",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Asia Brands Bhd.",
+    "ticker": "ASIABRN",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Asia File Corporation Bhd.",
+    "ticker": "ASIAFLE",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Asian Pac Holdings Bhd.",
+    "ticker": "ASIAPAC",
+    "sector": "Finance"
+  },
+  {
+    "name": "Asia Poly Holdings Bhd.",
+    "ticker": "ASIAPLY",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "ASM Automation Group Berhad",
+    "ticker": "ASM",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "ASTEEL Group Bhd",
+    "ticker": "ASTEEL",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Astino Bhd.",
+    "ticker": "ASTINO",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Astramina Group Bhd.",
+    "ticker": "ASTRA",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Astro Malaysia Holdings Bhd.",
+    "ticker": "ASTRO",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Aurelius Technologies Bhd.",
+    "ticker": "ATECH",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Atlan Holdings Bhd.",
+    "ticker": "ATLAN",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Aumas Resources Bhd",
+    "ticker": "AUMAS",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "AURO Holdings Bhd",
+    "ticker": "AURO",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Aurora Italia International Bhd.",
+    "ticker": "AURORA",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Autoris Group Holdings Bhd",
+    "ticker": "AUTORIS",
+    "sector": "Miscellaneous"
+  },
+  {
+    "name": "AVALAND Bhd",
+    "ticker": "AVALAND",
+    "sector": "Finance"
+  },
+  {
+    "name": "Avangaad Bhd",
+    "ticker": "AVANGAAD",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Avillion Bhd",
+    "ticker": "AVI",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "AwanBiru Technology Bhd.",
+    "ticker": "AWANTEC",
+    "sector": "Technology services"
+  },
+  {
+    "name": "AWC Berhad",
+    "ticker": "AWC",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Axiata Group Bhd.",
+    "ticker": "AXIATA",
+    "sector": "Communications"
+  },
+  {
+    "name": "Axteria Group Bhd",
+    "ticker": "AXTERIA",
+    "sector": "Finance"
+  },
+  {
+    "name": "AYER Holdings Bhd",
+    "ticker": "AYER",
+    "sector": "Finance"
+  },
+  {
+    "name": "AYS Ventures Bhd.",
+    "ticker": "AYS",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Azam Jaya Bhd",
+    "ticker": "AZAMJAYA",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Ahmad Zaki Resources Bhd.",
+    "ticker": "AZRB",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Baba Eco Group Bhd",
+    "ticker": "BABA",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "British American Tobacco Malaysia Bhd.",
+    "ticker": "BAT",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Bermaz Auto Berhad",
+    "ticker": "BAUTO",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "BCB BHD",
+    "ticker": "BCB",
+    "sector": "Finance"
+  },
+  {
+    "name": "BCM Alliance Bhd.",
+    "ticker": "BCMALL",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Bina Darulaman Bhd.",
+    "ticker": "BDB",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "BEDI Berhad",
+    "ticker": "BEDI",
+    "sector": "Finance"
+  },
+  {
+    "name": "Benalec Holdings Bhd.",
+    "ticker": "BENALEC",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Bertam Alliance Bhd.",
+    "ticker": "BERTAM",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "BesHom Holdings Bhd",
+    "ticker": "BESHOM",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "Betamek Bhd",
+    "ticker": "BETA",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Boustead Heavy Industries Corporation Bhd.",
+    "ticker": "BHIC",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "B.I.G. Industries Bhd.",
+    "ticker": "BIG",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Bank Islam Malaysia Bhd.",
+    "ticker": "BIMB",
+    "sector": "Finance"
+  },
+  {
+    "name": "Binasat Communications Bhd.",
+    "ticker": "BINACOM",
+    "sector": "Communications"
+  },
+  {
+    "name": "Bintai Kinden Corp. Bhd.",
+    "ticker": "BINTAI",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Bioalpha Holdings Bhd.",
+    "ticker": "BIOHLDG",
+    "sector": "Health technology"
+  },
+  {
+    "name": "Bintulu Port Holdings Bhd.",
+    "ticker": "BIPORT",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Berjaya Assets Bhd.",
+    "ticker": "BJASSET",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Berjaya Corp. Bhd.",
+    "ticker": "BJCORP",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Berjaya Food Bhd.",
+    "ticker": "BJFOOD",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Berjaya Land Bhd.",
+    "ticker": "BJLAND",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Batu Kawan Bhd.",
+    "ticker": "BKAWAN",
+    "sector": "Process industries"
+  },
+  {
+    "name": "BLD Plantation Bhd.",
+    "ticker": "BLDPLNT",
+    "sector": "Process industries"
+  },
+  {
+    "name": "BM GreenTech Bhd",
+    "ticker": "BMGREEN",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Binastra Corporation Berhad",
+    "ticker": "BNASTRA",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Bonia Corp. Bhd.",
+    "ticker": "BONIA",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "Borneo Oil Bhd.",
+    "ticker": "BORNOIL",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Box-Pak (Malaysia) Bhd.",
+    "ticker": "BOXPAK",
+    "sector": "Process industries"
+  },
+  {
+    "name": "BP Plastics Holding Bhd.",
+    "ticker": "BPPLAS",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Bina Puri Holdings Bhd.",
+    "ticker": "BPURI",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Bright Packaging Industry Bhd.",
+    "ticker": "BRIGHT",
+    "sector": "Process industries"
+  },
+  {
+    "name": "BSL Corporation Berhad",
+    "ticker": "BSLCORP",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Brite-Tech Bhd.",
+    "ticker": "BTECH",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "BTM Resources Bhd.",
+    "ticker": "BTM",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Bursa Malaysia Bhd.",
+    "ticker": "BURSA",
+    "sector": "Finance"
+  },
+  {
+    "name": "BV Land Holdings Bhd.",
+    "ticker": "BVLH",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "BWYS Group Bhd",
+    "ticker": "BWYS",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "CAB Cakaran Corp. Bhd.",
+    "ticker": "CAB",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Cabnet Holdings Bhd.",
+    "ticker": "CABNET",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "CAM Resources Bhd.",
+    "ticker": "CAMRES",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Can-One Bhd.",
+    "ticker": "CANONE",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Capital A Berhad",
+    "ticker": "CAPITALA",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Careplus Group Bhd.",
+    "ticker": "CAREPLS",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Carimin Petroleum Bhd",
+    "ticker": "CARIMIN",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Carlo Rino Group Bhd",
+    "ticker": "CARLORINO",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "Carlsberg Brewery Malaysia Bhd.",
+    "ticker": "CARLSBG",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Carzo Holdings Bhd.",
+    "ticker": "CARZO",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Catcha Digital Bhd",
+    "ticker": "CATCHA",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "CBH Engineering Holding Berhad",
+    "ticker": "CBHB",
+    "sector": "Utilities"
+  },
+  {
+    "name": "CB Industrial Product Holding Bhd.",
+    "ticker": "CBIP",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "CC International Bhd.",
+    "ticker": "CCIB",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "CCK Consolidated Holdings Bhd.",
+    "ticker": "CCK",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "CelcomDigi Berhad",
+    "ticker": "CDB",
+    "sector": "Communications"
+  },
+  {
+    "name": "Cape EMS Bhd",
+    "ticker": "CEB",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "CEKD Bhd",
+    "ticker": "CEKD",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Cengild Medical Bhd.",
+    "ticker": "CENGILD",
+    "sector": "Health services"
+  },
+  {
+    "name": "Censof Holdings Bhd.",
+    "ticker": "CENSOF",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Cepatwawasan Group Bhd.",
+    "ticker": "CEPAT",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Concrete Engineering Products Bhd.",
+    "ticker": "CEPCO",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "CE Technology Bhd.",
+    "ticker": "CETECH",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Computer Forms (Malaysia) Bhd.",
+    "ticker": "CFM",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Central Global Bhd",
+    "ticker": "CGB",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Critical Holdings Bhd.",
+    "ticker": "CHB",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Cheetah Holdings Bhd.",
+    "ticker": "CHEETAH",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Chin Hin Group Property Bhd.",
+    "ticker": "CHGP",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Country Heights Holdings Bhd.",
+    "ticker": "CHHB",
+    "sector": "Finance"
+  },
+  {
+    "name": "Chin Hin Group Bhd",
+    "ticker": "CHINHIN",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Chin Teck Plantations Bhd.",
+    "ticker": "CHINTEK",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Chin Well Holdings Bhd.",
+    "ticker": "CHINWEL",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Choo Bee Metal Industries Bhd.",
+    "ticker": "CHOOBEE",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Chuan Huat Resources Bhd.",
+    "ticker": "CHUAN",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "C.I. Holdings Bhd.",
+    "ticker": "CIHLDG",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "CIMB Group Holdings Bhd",
+    "ticker": "CIMB",
+    "sector": "Finance"
+  },
+  {
+    "name": "Citaglobal Bhd",
+    "ticker": "CITAGLB",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "CJ Century Logistics Holdings Bhd.",
+    "ticker": "CJCEN",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Cuckoo International (Mal) Bhd",
+    "ticker": "CKI",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Classita Holdings Bhd",
+    "ticker": "CLASSITA",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Chemlite Innovation Berhad",
+    "ticker": "CLITE",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Cloudaron Group Bhd.",
+    "ticker": "CLOUD",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Cloudpoint Technology Bhd",
+    "ticker": "CLOUDPT",
+    "sector": "Technology services"
+  },
+  {
+    "name": "CME Group Bhd.",
+    "ticker": "CME",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Cahya Mata Sarawak Bhd.",
+    "ticker": "CMSB",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "CN Asia Corporation Bhd.",
+    "ticker": "CNASIA",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Cnergenz Bhd.",
+    "ticker": "CNERGEN",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Citra Nusa Holdings Bhd",
+    "ticker": "CNH",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "China Ouhua Winery Holdings Ltd.",
+    "ticker": "CNOUHUA",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Coastal Contracts Bhd.",
+    "ticker": "COASTAL",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Colform Group Berhad",
+    "ticker": "COLFORM",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Comfort Gloves Bhd.",
+    "ticker": "COMFORT",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Compugates Holdings Bhd.",
+    "ticker": "COMPUGT",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Coraza Integrated Technology Bhd",
+    "ticker": "CORAZA",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Cosmos Technology International Bhd",
+    "ticker": "COSMOS",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "CPE Technology Bhd",
+    "ticker": "CPETECH",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Crest Builder Holdings Bhd.",
+    "ticker": "CRESBLD",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Crescendo Corp. Bhd.",
+    "ticker": "CRESNDO",
+    "sector": "Finance"
+  },
+  {
+    "name": "Crest Group Bhd.",
+    "ticker": "CREST",
+    "sector": "Health technology"
+  },
+  {
+    "name": "Cropmate Bhd.",
+    "ticker": "CRPMATE",
+    "sector": "Process industries"
+  },
+  {
+    "name": "CSC Steel Holdings Bhd.",
+    "ticker": "CSCSTEL",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "CTOS Digital Bhd",
+    "ticker": "CTOS",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Cuscapi Bhd.",
+    "ticker": "CUSCAPI",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Country View Bhd.",
+    "ticker": "CVIEW",
+    "sector": "Finance"
+  },
+  {
+    "name": "CWG Holdings Bhd.",
+    "ticker": "CWG",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Cyberjaya Education Group Bhd",
+    "ticker": "CYBERE",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "CYL Corporation Berhad",
+    "ticker": "CYL",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Cypark Resources Bhd.",
+    "ticker": "CYPARK",
+    "sector": "Utilities"
+  },
+  {
+    "name": "D&O Green Technologies Bhd.",
+    "ticker": "D&O",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Dancomech Holdings Bhd",
+    "ticker": "DANCO",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Dataprep Holdings Bhd.",
+    "ticker": "DATAPRP",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Daythree Digital Bhd",
+    "ticker": "DAY3",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Dayang Enterprise Holdings Bhd.",
+    "ticker": "DAYANG",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "DC Healthcare Holdings Bhd",
+    "ticker": "DCHCARE",
+    "sector": "Health services"
+  },
+  {
+    "name": "Deleum Bhd.",
+    "ticker": "DELEUM",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Wawasan Dengkil Holdings Bhd",
+    "ticker": "DENGKIL",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Destini Bhd.",
+    "ticker": "DESTINI",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "DFCITY Group Bhd.",
+    "ticker": "DFCITY",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Divfex Bhd",
+    "ticker": "DFX",
+    "sector": "Technology services"
+  },
+  {
+    "name": "DGB Asia Bhd",
+    "ticker": "DGB",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Dialog Group Bhd.",
+    "ticker": "DIALOG",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Digistar Corp. Bhd.",
+    "ticker": "DIGISTA",
+    "sector": "Technology services"
+  },
+  {
+    "name": "DKLS Industries Bhd.",
+    "ticker": "DKLS",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "DKSH Holdings (Malaysia) Bhd.",
+    "ticker": "DKSH",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Dutch Lady Milk Industries Bhd.",
+    "ticker": "DLADY",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Dagang NeXchange Berhad",
+    "ticker": "DNEX",
+    "sector": "Technology services"
+  },
+  {
+    "name": "D'nonce Technology Bhd.",
+    "ticker": "DNONCE",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Dominant Enterprise Bhd.",
+    "ticker": "DOMINAN",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Duopharma Biotech Bhd.",
+    "ticker": "DPHARMA",
+    "sector": "Health technology"
+  },
+  {
+    "name": "DPI Holdings Bhd.",
+    "ticker": "DPIH",
+    "sector": "Process industries"
+  },
+  {
+    "name": "DPS Resources Bhd.",
+    "ticker": "DPS",
+    "sector": "Finance"
+  },
+  {
+    "name": "DRB-Hicom Bhd.",
+    "ticker": "DRBHCOM",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "DSR Taiko Bhd",
+    "ticker": "DSR",
+    "sector": "Process industries"
+  },
+  {
+    "name": "DS Sigma Holdings Berhad",
+    "ticker": "DSS",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Dufu Technology Corp. Bhd.",
+    "ticker": "DUFU",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "DutaLand Bhd.",
+    "ticker": "DUTALND",
+    "sector": "Process industries"
+  },
+  {
+    "name": "DXN Holdings Bhd",
+    "ticker": "DXN",
+    "sector": "Health technology"
+  },
+  {
+    "name": "Dynafront Holdings Bhd.",
+    "ticker": "DYNAFNT",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Total Dynamic Holdings Bhd",
+    "ticker": "DYNAMIC",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Eastern & Oriental Bhd.",
+    "ticker": "E&O",
+    "sector": "Finance"
+  },
+  {
+    "name": "EA Holdings Bhd.",
+    "ticker": "EAH",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "ECA Integrated Solution Bhd",
+    "ticker": "ECA",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "ECM Libra Group Bhd.",
+    "ticker": "ECM",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "EcoFirst Consolidated Bhd",
+    "ticker": "ECOFIRS",
+    "sector": "Finance"
+  },
+  {
+    "name": "Ecobuilt Holdings Bhd.",
+    "ticker": "ECOHLDS",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Ecomate Holdings Bhd.",
+    "ticker": "ECOMATE",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Econpile Holdings Bhd",
+    "ticker": "ECONBHD",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Eco-Shop Marketing Berhad",
+    "ticker": "ECOSHOP",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "Eco World Development Group Bhd.",
+    "ticker": "ECOWLD",
+    "sector": "Finance"
+  },
+  {
+    "name": "Edaran Bhd.",
+    "ticker": "EDARAN",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Edelteq Holdings Bhd",
+    "ticker": "EDELTEQ",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Eden Inc. Berhad",
+    "ticker": "EDEN",
+    "sector": "Utilities"
+  },
+  {
+    "name": "UEM Edgenta Bhd.",
+    "ticker": "EDGENTA",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Eduspec Holdings Bhd.",
+    "ticker": "EDUSPEC",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Efficient E-Solutions Bhd.",
+    "ticker": "EFFICEN",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Excel Force MSC Bhd.",
+    "ticker": "EFORCE",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Econframe Bhd",
+    "ticker": "EFRAME",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "EG Industries Bhd.",
+    "ticker": "EG",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Ecoscience International Bhd.",
+    "ticker": "EIB",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Esthetics International Group Bhd.",
+    "ticker": "EIG",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "EITA Resources Bhd.",
+    "ticker": "EITA",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Ekovest Bhd.",
+    "ticker": "EKOVEST",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Eksons Corp. Bhd.",
+    "ticker": "EKSONS",
+    "sector": "Finance"
+  },
+  {
+    "name": "ELK-Desa Resources Bhd.",
+    "ticker": "ELKDESA",
+    "sector": "Finance"
+  },
+  {
+    "name": "Elridge Energy Holdings Berhad",
+    "ticker": "ELRIDGE",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Elsoft Research Bhd.",
+    "ticker": "ELSOFT",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Evergreen Max Cash Capital Bhd",
+    "ticker": "EMCC",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "Eonmetall Group Bhd.",
+    "ticker": "EMETALL",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Emico Holdings Bhd.",
+    "ticker": "EMICO",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Encorp Bhd.",
+    "ticker": "ENCORP",
+    "sector": "Finance"
+  },
+  {
+    "name": "Enest Group Bhd.",
+    "ticker": "ENEST",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Eng Kah Corp. Bhd.",
+    "ticker": "ENGKAH",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Engtex Group Bhd.",
+    "ticker": "ENGTEX",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Enproserve Group Bhd.",
+    "ticker": "ENPRO",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "ENRA Group Bhd.",
+    "ticker": "ENRA",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "EPB Group Berhad",
+    "ticker": "EPB",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Epicon Bhd",
+    "ticker": "EPICON",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "EP Manufacturing Bhd.",
+    "ticker": "EPMB",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Erdasan Group Bhd",
+    "ticker": "ERDASAN",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Eversafe Rubber Bhd.",
+    "ticker": "ESAFE",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "ES Ceramics Technology Bhd.",
+    "ticker": "ESCERAM",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "EquitiesTracker Holdings Bhd.",
+    "ticker": "ETH",
+    "sector": "Technology services"
+  },
+  {
+    "name": "EUPE Corp. Bhd.",
+    "ticker": "EUPE",
+    "sector": "Finance"
+  },
+  {
+    "name": "Euro Holdings Bhd.",
+    "ticker": "EURO",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Eurospan Holdings Bhd.",
+    "ticker": "EUROSP",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "EVD Bhd",
+    "ticker": "EVD",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Evergreen Fibreboard Bhd.",
+    "ticker": "EVERGRN",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "EWI Capital Bhd",
+    "ticker": "EWICAP",
+    "sector": "Finance"
+  },
+  {
+    "name": "Exsim Hospitality Bhd",
+    "ticker": "EXSIMHB",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Fraser & Neave Holdings Bhd.",
+    "ticker": "F&N",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "FACB Industries Inc. Bhd.",
+    "ticker": "FACBIND",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Far East Holdings Bhd.",
+    "ticker": "FAREAST",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Farlim Group (Malaysia) Bhd.",
+    "ticker": "FARLIM",
+    "sector": "Finance"
+  },
+  {
+    "name": "Fast Energy Holdings Bhd",
+    "ticker": "FAST",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Favelle Favco Bhd.",
+    "ticker": "FAVCO",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "FBG Holdings Berhad",
+    "ticker": "FBG",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "FCW Holdings Bhd.",
+    "ticker": "FCW",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Feytech Holdings Bhd",
+    "ticker": "FEYTECH",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Farm Fresh Bhd.",
+    "ticker": "FFB",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Fiamma Holdings Bhd.",
+    "ticker": "FIAMMA",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "Fibon Bhd.",
+    "ticker": "FIBON",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Fibromat (M) Bhd.",
+    "ticker": "FIBRO",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Federal International Holdings Bhd.",
+    "ticker": "FIHB",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Fima Corp. Bhd.",
+    "ticker": "FIMACOR",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Fintec Global Bhd",
+    "ticker": "FINTEC",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Fitters Diversified Bhd.",
+    "ticker": "FITTERS",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Focus Lumber Bhd.",
+    "ticker": "FLBHD",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Flexidynamic Holdings Bhd",
+    "ticker": "FLEXI",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "FM Global Logistics Holdings Bhd",
+    "ticker": "FM",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Focus Dynamics Group Bhd.",
+    "ticker": "FOCUS",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Focus Point Holdings Bhd.",
+    "ticker": "FOCUSP",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "Foundpac Group Bhd.",
+    "ticker": "FPGROUP",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Farm Price Holdings Bhd.",
+    "ticker": "FPHB",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Formosa Prosonic Industries Bhd.",
+    "ticker": "FPI",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Frontken Corp. Bhd.",
+    "ticker": "FRONTKN",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "FSBM Holdings Bhd.",
+    "ticker": "FSBM",
+    "sector": "Technology services"
+  },
+  {
+    "name": "G3 Global Bhd",
+    "ticker": "G3",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Gadang Holdings Bhd.",
+    "ticker": "GADANG",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Gamuda Bhd.",
+    "ticker": "GAMUDA",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Gas Malaysia Bhd.",
+    "ticker": "GASMSIA",
+    "sector": "Utilities"
+  },
+  {
+    "name": "Greater Bay Holdings Bhd",
+    "ticker": "GBAY",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Gabungan AQRS Bhd.",
+    "ticker": "GBGAQRS",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "G Capital Bhd.",
+    "ticker": "GCAP",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Guan Chong Bhd.",
+    "ticker": "GCB",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Grand Central Enterprises Bhd.",
+    "ticker": "GCE",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "GDB Holdings Bhd.",
+    "ticker": "GDB",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "GDEX Bhd",
+    "ticker": "GDEX",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Genetec Technology Bhd.",
+    "ticker": "GENETEC",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Genting Malaysia Bhd.",
+    "ticker": "GENM",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Genting Plantations Bhd.",
+    "ticker": "GENP",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Genting Bhd.",
+    "ticker": "GENTING",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Ge-Shen Corp. Bhd.",
+    "ticker": "GESHEN",
+    "sector": "Process industries"
+  },
+  {
+    "name": "GFM Services Bhd.",
+    "ticker": "GFM",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "GIIB Holdings Bhd",
+    "ticker": "GIIB",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "George Kent (Malaysia) Bhd.",
+    "ticker": "GKENT",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Golden Land Bhd.",
+    "ticker": "GLBHD",
+    "sector": "Finance"
+  },
+  {
+    "name": "Glomac Bhd.",
+    "ticker": "GLOMAC",
+    "sector": "Finance"
+  },
+  {
+    "name": "Globaltec Formation Bhd.",
+    "ticker": "GLOTEC",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Glostrext Bhd",
+    "ticker": "GLXT",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Gromutual Bhd.",
+    "ticker": "GMUTUAL",
+    "sector": "Finance"
+  },
+  {
+    "name": "Global Oriental Bhd.",
+    "ticker": "GOB",
+    "sector": "Finance"
+  },
+  {
+    "name": "Green Ocean Corp. Bhd.",
+    "ticker": "GOCEAN",
+    "sector": "Process industries"
+  },
+  {
+    "name": "GO Hub Capital Berhad",
+    "ticker": "GOHUB",
+    "sector": "Technology services"
+  },
+  {
+    "name": "GO INNOVATE ASIA BHD",
+    "ticker": "GOINNO",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Gopeng Bhd.",
+    "ticker": "GOPENG",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Green Packet Bhd.",
+    "ticker": "GPACKET",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Golden Pharos Bhd.",
+    "ticker": "GPHAROS",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "GPP Resources Bhd.",
+    "ticker": "GPP",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Greatech Technology Bhd.",
+    "ticker": "GREATEC",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Greenyield Bhd.",
+    "ticker": "GREENYB",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Globetronics Technology Bhd.",
+    "ticker": "GTRONIC",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "GUH Holdings Bhd.",
+    "ticker": "GUH",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "GuocoLand (Malaysia) Bhd.",
+    "ticker": "GUOCO",
+    "sector": "Finance"
+  },
+  {
+    "name": "Haily Group Bhd.",
+    "ticker": "HAILY",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Handal Energy Bhd.",
+    "ticker": "HANDAL",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Hap Seng Consolidated Bhd.",
+    "ticker": "HAPSENG",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Harbour-Link Group Bhd.",
+    "ticker": "HARBOUR",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Harrisons Holdings Malaysia Bhd.",
+    "ticker": "HARISON",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Harn Len Corporation Bhd.",
+    "ticker": "HARNLEN",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Hartalega Holdings Bhd.",
+    "ticker": "HARTA",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Steel Hawk Bhd.",
+    "ticker": "HAWK",
+    "sector": "Energy minerals"
+  },
+  {
+    "name": "HB Global Ltd.",
+    "ticker": "HBGLOB",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "HCK Capital Group Berhad",
+    "ticker": "HCK",
+    "sector": "Finance"
+  },
+  {
+    "name": "HE Group Bhd",
+    "ticker": "HEGROUP",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Heineken Malaysia Bhd.",
+    "ticker": "HEIM",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Hengyuan Refining Company Bhd",
+    "ticker": "HENGYUAN",
+    "sector": "Energy minerals"
+  },
+  {
+    "name": "HeveaBoard Bhd.",
+    "ticker": "HEVEA",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Hextar Capital Bhd",
+    "ticker": "HEXCAP",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Hextar Healthcare Bhd",
+    "ticker": "HEXCARE",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Hextar Industries Bhd",
+    "ticker": "HEXIND",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Hextar Retail Bhd",
+    "ticker": "HEXRTL",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Hextar Global Bhd.",
+    "ticker": "HEXTAR",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Hextar Technologies Solutions Berhad.",
+    "ticker": "HEXTECH",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Hexza Corp. Bhd.",
+    "ticker": "HEXZA",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Hiap Huat Holdings Bhd.",
+    "ticker": "HHHCORP",
+    "sector": "Energy minerals"
+  },
+  {
+    "name": "HHRG BERHAD",
+    "ticker": "HHRG",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Hi Mobility Bhd.",
+    "ticker": "HI",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Hiap Teck Venture Bhd.",
+    "ticker": "HIAPTEK",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Hibiscus Petroleum Bhd.",
+    "ticker": "HIBISCS",
+    "sector": "Energy minerals"
+  },
+  {
+    "name": "Kumpulan H&L High-Tech Bhd.",
+    "ticker": "HIGHTEC",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "HIL Industries Bhd.",
+    "ticker": "HIL",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Hartanah Kenyalang Bhd",
+    "ticker": "HKB",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Hong Leong Bank Bhd",
+    "ticker": "HLBANK",
+    "sector": "Finance"
+  },
+  {
+    "name": "Hong Leong Capital Bhd.",
+    "ticker": "HLCAP",
+    "sector": "Finance"
+  },
+  {
+    "name": "Hong Leong Financial Group Bhd.",
+    "ticker": "HLFG",
+    "sector": "Finance"
+  },
+  {
+    "name": "Hong Leong Industries Bhd.",
+    "ticker": "HLIND",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "HLT Global Bhd.",
+    "ticker": "HLT",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Harvest Miracle Capital Bhd",
+    "ticker": "HM",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Ho Hup Construction Co. Bhd.",
+    "ticker": "HOHUP",
+    "sector": "Finance"
+  },
+  {
+    "name": "Homeritz Corp. Bhd.",
+    "ticker": "HOMERIZ",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Hong Seng Consolidated Berhad",
+    "ticker": "HONGSENG",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Hydropipes Bhd.",
+    "ticker": "HPI",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "HPMT Holdings Bhd.",
+    "ticker": "HPMT",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "HPP Holdings Bhd",
+    "ticker": "HPPHB",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Hap Seng Plantations Holdings Bhd.",
+    "ticker": "HSPLANT",
+    "sector": "Process industries"
+  },
+  {
+    "name": "HSS Engineers Bhd.",
+    "ticker": "HSSEB",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "HeiTech Padu Bhd.",
+    "ticker": "HTPADU",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Hua Yang Bhd.",
+    "ticker": "HUAYANG",
+    "sector": "Finance"
+  },
+  {
+    "name": "Hubline Bhd.",
+    "ticker": "HUBLINE",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Hume Cement Industries Berhad",
+    "ticker": "HUMEIND",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Hup Seng Industries Bhd.",
+    "ticker": "HUPSENG",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Hwa Tai Industries Bhd.",
+    "ticker": "HWATAI",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Ho Wah Genting Bhd.",
+    "ticker": "HWGB",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "I-Berhad",
+    "ticker": "IBHD",
+    "sector": "Finance"
+  },
+  {
+    "name": "Ibraco Bhd.",
+    "ticker": "IBRACO",
+    "sector": "Finance"
+  },
+  {
+    "name": "Icents Group Holdings Berhad",
+    "ticker": "ICENTS",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Iconic Worldwide Bhd.",
+    "ticker": "ICONIC",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "ICT Zone Asia Bhd.",
+    "ticker": "ICTZONE",
+    "sector": "Technology services"
+  },
+  {
+    "name": "IDB Technologies Bhd",
+    "ticker": "IDBTECH",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Ideal Capital Berhad",
+    "ticker": "IDEAL",
+    "sector": "Finance"
+  },
+  {
+    "name": "IFCA MSC Bhd.",
+    "ticker": "IFCAMSC",
+    "sector": "Technology services"
+  },
+  {
+    "name": "IGB Bhd.",
+    "ticker": "IGBB",
+    "sector": "Finance"
+  },
+  {
+    "name": "Infraharta Holdings Bhd.",
+    "ticker": "IHB",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "IHH Healthcare Bhd.",
+    "ticker": "IHH",
+    "sector": "Health services"
+  },
+  {
+    "name": "IJM Corporation Berhad",
+    "ticker": "IJM",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Imaspro Corp. Bhd.",
+    "ticker": "IMASPRO",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Inari Amertron Berhad",
+    "ticker": "INARI",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Inch Kenneth Kajang Rubber Plc",
+    "ticker": "INCKEN",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Infomina Bhd",
+    "ticker": "INFOM",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Infoline Tec Group Bhd",
+    "ticker": "INFOTEC",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Ingenieur Gudang Bhd",
+    "ticker": "INGENIEU",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Innature bhd",
+    "ticker": "INNATURE",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "Innity Corp. Bhd.",
+    "ticker": "INNITY",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Innoprise Plantations Bhd.",
+    "ticker": "INNO",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Insas Bhd.",
+    "ticker": "INSAS",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Inta Bina Group Bhd.",
+    "ticker": "INTA",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "IOI Corporation Berhad",
+    "ticker": "IOICORP",
+    "sector": "Process industries"
+  },
+  {
+    "name": "IOI Properties Group Bhd.",
+    "ticker": "IOIPG",
+    "sector": "Finance"
+  },
+  {
+    "name": "IQ Group Holdings Bhd.",
+    "ticker": "IQGROUP",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Ireka Corp. Bhd.",
+    "ticker": "IREKA",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "IRIS Corp. Bhd.",
+    "ticker": "IRIS",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Itmax System Bhd",
+    "ticker": "ITMAX",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Industronics Bhd.",
+    "ticker": "ITRONIC",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Iskandar Waterfront City Berhad",
+    "ticker": "IWCITY",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Jadi Imaging Holdings Bhd.",
+    "ticker": "JADI",
+    "sector": "Process industries"
+  },
+  {
+    "name": "JAG Berhad",
+    "ticker": "JAG",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Jagasolution Berhad",
+    "ticker": "JAGAAPP",
+    "sector": "Technology services"
+  },
+  {
+    "name": "JAKS Resources Bhd.",
+    "ticker": "JAKS",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Jasa Kita Bhd.",
+    "ticker": "JASKITA",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Jaycorp Berhad",
+    "ticker": "JAYCORP",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "JcbNext Bhd.",
+    "ticker": "JCBNEXT",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "JCY International Bhd.",
+    "ticker": "JCY",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Kumpulan Jetson Bhd.",
+    "ticker": "JETSON",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "JF Technology Bhd.",
+    "ticker": "JFTECH",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "JHM Consolidation Bhd.",
+    "ticker": "JHM",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Jiankun International Bhd",
+    "ticker": "JIANKUN",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Jishan Bhd.",
+    "ticker": "JISHAN",
+    "sector": "Process industries"
+  },
+  {
+    "name": "JKG Land Bhd.",
+    "ticker": "JKGLAND",
+    "sector": "Finance"
+  },
+  {
+    "name": "Joe Holding Bhd.",
+    "ticker": "JOE",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Johan Holdings Bhd.",
+    "ticker": "JOHAN",
+    "sector": "Finance"
+  },
+  {
+    "name": "Johor Plantations Group Bhd",
+    "ticker": "JPG",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Jentayu Sustainables Bhd.",
+    "ticker": "JSB",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Jati Tinggi Group Bhd",
+    "ticker": "JTGROUP",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Jaya Tiasa Holdings Bhd.",
+    "ticker": "JTIASA",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "K-One Technology Bhd.",
+    "ticker": "K1",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Kinergy Advancement Bhd",
+    "ticker": "KAB",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Kamdar Group (M) Bhd.",
+    "ticker": "KAMDAR",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "Kanger International Bhd.",
+    "ticker": "KANGER",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Karex Bhd.",
+    "ticker": "KAREX",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Karyon Industries Bhd.",
+    "ticker": "KARYON",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Kawan Food Bhd.",
+    "ticker": "KAWAN",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Kein Hing International Bhd.",
+    "ticker": "KEINHIN",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Ken Holdings Bhd.",
+    "ticker": "KEN",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Kenanga Investment Bank Bhd.",
+    "ticker": "KENANGA",
+    "sector": "Finance"
+  },
+  {
+    "name": "Kawan Renergy Bhd.",
+    "ticker": "KENERGY",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Kerjaya Prospek Group Berhad",
+    "ticker": "KERJAYA",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "KESM Industries Bhd.",
+    "ticker": "KESM",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Key ASIC Bhd.",
+    "ticker": "KEYASIC",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Keyfield International Berhad",
+    "ticker": "KEYFIELD",
+    "sector": "Miscellaneous"
+  },
+  {
+    "name": "Kumpulan Fima Bhd.",
+    "ticker": "KFIMA",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Kelington Group Bhd.",
+    "ticker": "KGB",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Key Alliance Group Berhad",
+    "ticker": "KGROUP",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "KGW Group Bhd",
+    "ticker": "KGW",
+    "sector": "Transportation"
+  },
+  {
+    "name": "KHPT Holdings Bhd",
+    "ticker": "KHB",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Khee San Bhd.",
+    "ticker": "KHEESAN",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Khind Holdings Bhd.",
+    "ticker": "KHIND",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Kim Hin Joo (Malaysia) Bhd.",
+    "ticker": "KHJB",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "Kia Lim Bhd.",
+    "ticker": "KIALIM",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Kim Hin Industry Bhd.",
+    "ticker": "KIMHIN",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Kimlun Corp. Bhd.",
+    "ticker": "KIMLUN",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Kumpulan Kitacon Berhad",
+    "ticker": "KITACON",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "KJTS Group Berhad",
+    "ticker": "KJTS",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "KKB Engineering Bhd.",
+    "ticker": "KKB",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Kuala Lumpur Kepong Bhd.",
+    "ticker": "KLK",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Kluang Rubber Co. (Malaya) Bhd.",
+    "ticker": "KLUANG",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Kim Loong Resources Bhd.",
+    "ticker": "KMLOONG",
+    "sector": "Process industries"
+  },
+  {
+    "name": "KNM Group Bhd.",
+    "ticker": "KNM",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Knusford Bhd.",
+    "ticker": "KNUSFOR",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Kobay Technology Bhd.",
+    "ticker": "KOBAY",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Komarkcorp Bhd.",
+    "ticker": "KOMARK",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Oriental Kopi Holdings Bhd.",
+    "ticker": "KOPI",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Kossan Rubber Industries Bhd.",
+    "ticker": "KOSSAN",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Kotra Industries Bhd.",
+    "ticker": "KOTRA",
+    "sector": "Health technology"
+  },
+  {
+    "name": "KPJ Healthcare Bhd.",
+    "ticker": "KPJ",
+    "sector": "Health services"
+  },
+  {
+    "name": "Kerjaya Prospek Property Bhd.",
+    "ticker": "KPPROP",
+    "sector": "Finance"
+  },
+  {
+    "name": "Kumpulan Perangsang Selangor Bhd.",
+    "ticker": "KPS",
+    "sector": "Utilities"
+  },
+  {
+    "name": "KPS Consortium Bhd.",
+    "ticker": "KPSCB",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Kretam Holdings Bhd.",
+    "ticker": "KRETAM",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Kronologi Asia Bhd.",
+    "ticker": "KRONO",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Keck Seng (Malaysia) Bhd.",
+    "ticker": "KSENG",
+    "sector": "Process industries"
+  },
+  {
+    "name": "KSL Holdings Bhd.",
+    "ticker": "KSL",
+    "sector": "Finance"
+  },
+  {
+    "name": "K. Seng Seng Corp. Bhd.",
+    "ticker": "KSSC",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Kim Teck Cheong Consolidated Bhd.",
+    "ticker": "KTC",
+    "sector": "Transportation"
+  },
+  {
+    "name": "KTI Landmark Bhd.",
+    "ticker": "KTI",
+    "sector": "Finance"
+  },
+  {
+    "name": "KUB Malaysia Bhd.",
+    "ticker": "KUB",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Kuchai Development Bhd.",
+    "ticker": "KUCHAI",
+    "sector": "Finance"
+  },
+  {
+    "name": "Kucingko Sdn Bhd",
+    "ticker": "KUCINGKO",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "KYM Holdings Bhd.",
+    "ticker": "KYM",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Land & General Bhd.",
+    "ticker": "L&G",
+    "sector": "Finance"
+  },
+  {
+    "name": "L&P Global Berhad",
+    "ticker": "L&PBHD",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Lagenda Properties Bhd.",
+    "ticker": "LAGENDA",
+    "sector": "Finance"
+  },
+  {
+    "name": "Landmarks Bhd.",
+    "ticker": "LANDMRK",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Lay Hong Bhd.",
+    "ticker": "LAYHONG",
+    "sector": "Process industries"
+  },
+  {
+    "name": "LB Aluminium Bhd.",
+    "ticker": "LBALUM",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "LBI Capital Bhd.",
+    "ticker": "LBICAP",
+    "sector": "Finance"
+  },
+  {
+    "name": "LBS Bina Group Bhd.",
+    "ticker": "LBS",
+    "sector": "Finance"
+  },
+  {
+    "name": "Lotte Chemical Titan Holdings Bhd",
+    "ticker": "LCTITAN",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Lebtech Bhd.",
+    "ticker": "LEBTECH",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Lee Swee Kiat Group Bhd.",
+    "ticker": "LEESK",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Leform Bhd",
+    "ticker": "LEFORM",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Leon Fuat Bhd.",
+    "ticker": "LEONFB",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "LFE Corporation Bhd",
+    "ticker": "LFECORP",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Lianson Fleet Group Bhd",
+    "ticker": "LFG",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "LGMS Bhd",
+    "ticker": "LGMS",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Leong Hup International Bhd.",
+    "ticker": "LHI",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Lien Hoe Corp. Bhd.",
+    "ticker": "LIENHOE",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Lii Hen Industries Bhd.",
+    "ticker": "LIIHEN",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Lion Industries Corp. Bhd.",
+    "ticker": "LIONIND",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Lion Posim Bhd.",
+    "ticker": "LIONPSIM",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "LKL International Bhd.",
+    "ticker": "LKL",
+    "sector": "Health technology"
+  },
+  {
+    "name": "Lotus Kfm Bhd",
+    "ticker": "LOTUS",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Lotus Circular Bhd",
+    "ticker": "LOTUSCIR",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "LPI Capital Bhd",
+    "ticker": "LPI",
+    "sector": "Finance"
+  },
+  {
+    "name": "Lim Seong Hai Capital Bhd",
+    "ticker": "LSH",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Leader Steel Holdings Bhd.",
+    "ticker": "LSTEEL",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "LTKM Bhd.",
+    "ticker": "LTKM",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Luster Industries Bhd.",
+    "ticker": "LUSTER",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Luxchem Corp. Bhd.",
+    "ticker": "LUXCHEM",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Life Water Bhd.",
+    "ticker": "LWSABAH",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "LYC Healthcare Bhd.",
+    "ticker": "LYC",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Lysaght Galvanized Steel Bhd.",
+    "ticker": "LYSAGHT",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "M & A Equity Holdings Bhd",
+    "ticker": "M&A",
+    "sector": "Finance"
+  },
+  {
+    "name": "Marine & General Bhd",
+    "ticker": "M&G",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "MAA Group Bhd.",
+    "ticker": "MAA",
+    "sector": "Finance"
+  },
+  {
+    "name": "MAG Holdings Berhad",
+    "ticker": "MAG",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Magma Group Bhd",
+    "ticker": "MAGMA",
+    "sector": "Finance"
+  },
+  {
+    "name": "Magna Prima Bhd.",
+    "ticker": "MAGNA",
+    "sector": "Finance"
+  },
+  {
+    "name": "Magni-Tech Industries Bhd.",
+    "ticker": "MAGNI",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Magnum Berhad",
+    "ticker": "MAGNUM",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Mah Sing Group Bhd.",
+    "ticker": "MAHSING",
+    "sector": "Finance"
+  },
+  {
+    "name": "Malakoff Corporation Bhd",
+    "ticker": "MALAKOF",
+    "sector": "Utilities"
+  },
+  {
+    "name": "Malpac Holdings Bhd.",
+    "ticker": "MALPAC",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Malton Bhd.",
+    "ticker": "MALTON",
+    "sector": "Finance"
+  },
+  {
+    "name": "Manulife Holdings Bhd.",
+    "ticker": "MANULFE",
+    "sector": "Finance"
+  },
+  {
+    "name": "Marco Holdings Bhd.",
+    "ticker": "MARCO",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Malaysia Steel Works (KL) Bhd.",
+    "ticker": "MASTEEL",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Master-Pack Group Bhd.",
+    "ticker": "MASTER",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Matang Bhd.",
+    "ticker": "MATANG",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Matrix Concepts Holdings Bhd.",
+    "ticker": "MATRIX",
+    "sector": "Finance"
+  },
+  {
+    "name": "Maxim Global Bhd.",
+    "ticker": "MAXIM",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Maxis Bhd.",
+    "ticker": "MAXIS",
+    "sector": "Communications"
+  },
+  {
+    "name": "Maxland Bhd",
+    "ticker": "MAXLAND",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Malayan Banking Bhd.",
+    "ticker": "MAYBANK",
+    "sector": "Finance"
+  },
+  {
+    "name": "Maybulk Bhd",
+    "ticker": "MAYBULK",
+    "sector": "Transportation"
+  },
+  {
+    "name": "MAYU GLOBAL GROUP Bhd",
+    "ticker": "MAYU",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Muar Ban Lee Group Bhd.",
+    "ticker": "MBL",
+    "sector": "Process industries"
+  },
+  {
+    "name": "MBM Resources Bhd.",
+    "ticker": "MBMR",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "MYMBN Bhd",
+    "ticker": "MBN",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Meta Bright Group Bhd",
+    "ticker": "MBRIGHT",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "MBSB Bhd",
+    "ticker": "MBSB",
+    "sector": "Finance"
+  },
+  {
+    "name": "MCE Holdings Bhd.",
+    "ticker": "MCEHLDG",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Malayan Cement Bhd",
+    "ticker": "MCEMENT",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "MClean Technologies Bhd.",
+    "ticker": "MCLEAN",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "MCOM Holdings Berhad",
+    "ticker": "MCOM",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Media Prima Bhd.",
+    "ticker": "MEDIA",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Mega Fortris Berhad",
+    "ticker": "MEGAFB",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Melati Ehsan Holdings Bhd.",
+    "ticker": "MELATI",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Melewar Industrial Group Bhd.",
+    "ticker": "MELEWAR",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Menang Corporation (M) Berhad",
+    "ticker": "MENANG",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Mentiga Corp. Bhd.",
+    "ticker": "MENTIGA",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Mercury Industries Bhd",
+    "ticker": "MERCURY",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Meridian Berhad",
+    "ticker": "MERIDIAN",
+    "sector": "Finance"
+  },
+  {
+    "name": "Mercury Securities Group Bhd.",
+    "ticker": "MERSEC",
+    "sector": "Finance"
+  },
+  {
+    "name": "Mestron Holdings Bhd.",
+    "ticker": "MESTRON",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Metro Healthcare Bhd.",
+    "ticker": "METRO",
+    "sector": "Health services"
+  },
+  {
+    "name": "Metrod Holdings Bhd.",
+    "ticker": "METROD",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Mega First Corp. Bhd.",
+    "ticker": "MFCB",
+    "sector": "Utilities"
+  },
+  {
+    "name": "Manforce Group Bhd.",
+    "ticker": "MFGROUP",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Malayan Flour Mills Bhd.",
+    "ticker": "MFLOUR",
+    "sector": "Process industries"
+  },
+  {
+    "name": "MGB Bhd",
+    "ticker": "MGB",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Malaysian Genomics Resource Centre Bhd.",
+    "ticker": "MGRC",
+    "sector": "Health services"
+  },
+  {
+    "name": "Malaysia Marine & Heavy Engineering Holdings Bhd.",
+    "ticker": "MHB",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "MHC Plantations Bhd.",
+    "ticker": "MHC",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Mi Technovation Bhd.",
+    "ticker": "MI",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Microlink Solutions Bhd.",
+    "ticker": "MICROLN",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Mieco Chipboard Bhd.",
+    "ticker": "MIECO",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Mikro MSC Bhd.",
+    "ticker": "MIKROMB",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Milux Corp. Bhd.",
+    "ticker": "MILUX",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Minho (Malaysia) Bhd.",
+    "ticker": "MINHO",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Minox International Group Bhd",
+    "ticker": "MINOX",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "MISC Bhd",
+    "ticker": "MISC",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Mitrajaya Holdings Bhd.",
+    "ticker": "MITRA",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Majuperak Holdings Bhd.",
+    "ticker": "MJPERAK",
+    "sector": "Finance"
+  },
+  {
+    "name": "MKH Berhad",
+    "ticker": "MKH",
+    "sector": "Finance"
+  },
+  {
+    "name": "MKH Oil Palm (East Kalimantan) Bhd",
+    "ticker": "MKHOP",
+    "sector": "Process industries"
+  },
+  {
+    "name": "MK Land Holdings Bhd.",
+    "ticker": "MKLAND",
+    "sector": "Finance"
+  },
+  {
+    "name": "Mlabs Systems Bhd.",
+    "ticker": "MLAB",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "MMAG Holdings Bhd.",
+    "ticker": "MMAG",
+    "sector": "Technology services"
+  },
+  {
+    "name": "MMIS Bhd.",
+    "ticker": "MMIS",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "MMS Ventures Bhd.",
+    "ticker": "MMSV",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "MNC Wireless Bhd.",
+    "ticker": "MNC",
+    "sector": "Communications"
+  },
+  {
+    "name": "MN Holdings Bhd.",
+    "ticker": "MNHLDG",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "MNRB Holdings Bhd.",
+    "ticker": "MNRB",
+    "sector": "Finance"
+  },
+  {
+    "name": "Mobilia Holdings Bhd",
+    "ticker": "MOBILIA",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "ManagePay Systems Bhd.",
+    "ticker": "MPAY",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Malaysian Pacific Industries Bhd.",
+    "ticker": "MPI",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Mpire Global Bhd",
+    "ticker": "MPIRE",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Matrix Parking Solution Holdings Bhd",
+    "ticker": "MPSOL",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "MQ Technology Bhd.",
+    "ticker": "MQTECH",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Malaysian Resources Corp. Bhd.",
+    "ticker": "MRCB",
+    "sector": "Finance"
+  },
+  {
+    "name": "MR. D.I.Y. Group (M) Bhd.",
+    "ticker": "MRDIY",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "MSB Global Group Bhd.",
+    "ticker": "MSB",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Malaysia Smelting Corp. Bhd.",
+    "ticker": "MSC",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "MSM Malaysia Holdings Bhd.",
+    "ticker": "MSM",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Mesiniaga Bhd.",
+    "ticker": "MSNIAGA",
+    "sector": "Technology services"
+  },
+  {
+    "name": "MST Golf Group Bhd",
+    "ticker": "MSTGOLF",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "MTAG Group Berhad",
+    "ticker": "MTAG",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Master Tec Group Bhd",
+    "ticker": "MTEC",
+    "sector": "Miscellaneous"
+  },
+  {
+    "name": "mTouche Technology Bhd.",
+    "ticker": "MTOUCHE",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Metronic Global Bhd.",
+    "ticker": "MTRONIC",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Muda Holdings Bhd.",
+    "ticker": "MUDA",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Mudajaya Group Bhd.",
+    "ticker": "MUDAJYA",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Multi-Usage Holdings Bhd.",
+    "ticker": "MUH",
+    "sector": "Finance"
+  },
+  {
+    "name": "Muhibbah Engineering (M) Bhd.",
+    "ticker": "MUHIBAH",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Malayan United Industries Bhd.",
+    "ticker": "MUIIND",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "MUI Properties Bhd.",
+    "ticker": "MUIPROP",
+    "sector": "Finance"
+  },
+  {
+    "name": "Mulpha International Bhd.",
+    "ticker": "MULPHA",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "MyAxis Group Bhd.",
+    "ticker": "MYAXIS",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Mycron Steel Bhd.",
+    "ticker": "MYCRON",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Mynews Holdings Bhd",
+    "ticker": "MYNEWS",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "MyTech Group Berhad",
+    "ticker": "MYTECH",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "N2N Connect Bhd.",
+    "ticker": "N2N",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Gagasan Nadi Cergas Bhd.",
+    "ticker": "NADIBHD",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Naim Holdings Bhd.",
+    "ticker": "NAIM",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Nationgate Holdings Berhad",
+    "ticker": "NATGATE",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "NCT Alliance Bhd",
+    "ticker": "NCT",
+    "sector": "Finance"
+  },
+  {
+    "name": "Northeast Group Bhd",
+    "ticker": "NE",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Nestcon Bhd",
+    "ticker": "NESTCON",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Nestle (Malaysia) Bhd.",
+    "ticker": "NESTLE",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "NetX Holdings Bhd.",
+    "ticker": "NETX",
+    "sector": "Technology services"
+  },
+  {
+    "name": "NEXG Bhd",
+    "ticker": "NEXG",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Nexgram Holdings Berhad",
+    "ticker": "NEXGRAM",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Nextgreen Global Bhd",
+    "ticker": "NGGB",
+    "sector": "Finance"
+  },
+  {
+    "name": "NuEnergy Holdings Bhd",
+    "ticker": "NHB",
+    "sector": "Utilities"
+  },
+  {
+    "name": "New Hoong Fatt Holdings Bhd.",
+    "ticker": "NHFATT",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Niche Capital Emas Holdings Bhd.",
+    "ticker": "NICE",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Ni Hsin Group Bhd",
+    "ticker": "NIHSIN",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Northern Solar Holdings Bhd.",
+    "ticker": "NORTHERN",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Notion VTec Bhd.",
+    "ticker": "NOTION",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Nova Wellness Group Bhd.",
+    "ticker": "NOVA",
+    "sector": "Health technology"
+  },
+  {
+    "name": "Nova MSC Bhd.",
+    "ticker": "NOVAMSC",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Novelplus Technology Bhd",
+    "ticker": "NP",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Nova Pharma Solutions Bhd.",
+    "ticker": "NPS",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Negri Sembilan Oil Palms Bhd.",
+    "ticker": "NSOP",
+    "sector": "Process industries"
+  },
+  {
+    "name": "NTPM Holdings Bhd.",
+    "ticker": "NTPM",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Oasis Harvest Corporation Bhd",
+    "ticker": "OASIS",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "OB Holdings Bhd",
+    "ticker": "OBHB",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "OCB Bhd.",
+    "ticker": "OCB",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "OCK Group Bhd.",
+    "ticker": "OCK",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Oceancash Pacific Bhd.",
+    "ticker": "OCNCASH",
+    "sector": "Process industries"
+  },
+  {
+    "name": "OCR Group Bhd",
+    "ticker": "OCR",
+    "sector": "Finance"
+  },
+  {
+    "name": "Ocean Fresh Bhd.",
+    "ticker": "OFB",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Oriental Food Industries Holdings Bhd.",
+    "ticker": "OFI",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Oasis Home Holding Bhd",
+    "ticker": "OHM",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Oriental Interest Bhd.",
+    "ticker": "OIB",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "OKA Corporation Bhd.",
+    "ticker": "OKA",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Olympia Industries Bhd.",
+    "ticker": "OLYMPIA",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Omesti Bhd.",
+    "ticker": "OMESTI",
+    "sector": "Technology services"
+  },
+  {
+    "name": "One Glove Group Bhd",
+    "ticker": "ONEGLOVE",
+    "sector": "Health technology"
+  },
+  {
+    "name": "OpenSys (M) Bhd.",
+    "ticker": "OPENSYS",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Oppstar Berhad",
+    "ticker": "OPPSTAR",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Optimax Holdings Bhd.",
+    "ticker": "OPTIMAX",
+    "sector": "Health services"
+  },
+  {
+    "name": "Orgabio Holdings Bhd.",
+    "ticker": "ORGABIO",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Oriental Holdings Bhd.",
+    "ticker": "ORIENT",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "Ornapaper Bhd.",
+    "ticker": "ORNA",
+    "sector": "Process industries"
+  },
+  {
+    "name": "OSK Holdings Bhd.",
+    "ticker": "OSK",
+    "sector": "Finance"
+  },
+  {
+    "name": "OSK Ventures International Bhd.",
+    "ticker": "OSKVI",
+    "sector": "Miscellaneous"
+  },
+  {
+    "name": "Oversea Enterprise Bhd.",
+    "ticker": "OVERSEA",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Ocean Vantage Holdings Bhd.",
+    "ticker": "OVH",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Only World Group Holdings Bhd.",
+    "ticker": "OWG",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Oxford Innotech Bhd.",
+    "ticker": "OXB",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Pacific & Orient Bhd.",
+    "ticker": "P&O",
+    "sector": "Finance"
+  },
+  {
+    "name": "P.A. Resources Berhad",
+    "ticker": "PA",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Padini Holdings Bhd.",
+    "ticker": "PADINI",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "Panasonic Manufacturing Malaysia Bhd.",
+    "ticker": "PANAMY",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Panda Eco System Bhd",
+    "ticker": "PANDA",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Pansar Bhd.",
+    "ticker": "PANSAR",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Pantech Group Holdings Bhd.",
+    "ticker": "PANTECH",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Paos Holdings Bhd.",
+    "ticker": "PAOS",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Paragon Union Bhd.",
+    "ticker": "PARAGON",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Paramount Corp. Bhd.",
+    "ticker": "PARAMON",
+    "sector": "Finance"
+  },
+  {
+    "name": "Parkson Holdings Bhd.",
+    "ticker": "PARKSON",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "Parkwood Holdings Bhd.",
+    "ticker": "PARKWD",
+    "sector": "Finance"
+  },
+  {
+    "name": "Parlo Bhd",
+    "ticker": "PARLO",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Pasdec Holdings Bhd.",
+    "ticker": "PASDEC",
+    "sector": "Finance"
+  },
+  {
+    "name": "Pasukhas Group Bhd.",
+    "ticker": "PASUKGB",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "PBA Holdings Bhd.",
+    "ticker": "PBA",
+    "sector": "Utilities"
+  },
+  {
+    "name": "Public Bank Bhd",
+    "ticker": "PBBANK",
+    "sector": "Finance"
+  },
+  {
+    "name": "PBS Bhd",
+    "ticker": "PBSB",
+    "sector": "Transportation"
+  },
+  {
+    "name": "PCCS Group Bhd.",
+    "ticker": "PCCS",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "PETRONAS Chemicals Group Bhd.",
+    "ticker": "PCHEM",
+    "sector": "Process industries"
+  },
+  {
+    "name": "PDZ Holdings Bhd.",
+    "ticker": "PDZ",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Pimpinan Ehsan Berhad",
+    "ticker": "PEB",
+    "sector": "Finance"
+  },
+  {
+    "name": "Pecca Group Bhd.",
+    "ticker": "PECCA",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Pekat Group Bhd",
+    "ticker": "PEKAT",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Petra Energy Bhd.",
+    "ticker": "PENERGY",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Pensonic Holdings Bhd.",
+    "ticker": "PENSONI",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Pentamaster Corp. Bhd.",
+    "ticker": "PENTA",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "PEOPLElogy Bhd",
+    "ticker": "PEOPLE",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Perdana Petroleum Bhd.",
+    "ticker": "PERDANA",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Permaju Industries Bhd.",
+    "ticker": "PERMAJU",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "Perusahaan Sadur Timah Malaysia (Perstima) Bhd.",
+    "ticker": "PERSTIM",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Pertama Digital Bhd.",
+    "ticker": "PERTAMA",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Pesona Metro Holdings Bhd.",
+    "ticker": "PESONA",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Pestec International Berhad",
+    "ticker": "PESTEC",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Petronas Dagangan Bhd.",
+    "ticker": "PETDAG",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Petronas Gas Bhd.",
+    "ticker": "PETGAS",
+    "sector": "Utilities"
+  },
+  {
+    "name": "Petron Malaysia Refining & Marketing Bhd.",
+    "ticker": "PETRONM",
+    "sector": "Energy minerals"
+  },
+  {
+    "name": "Propel Global Bhd.",
+    "ticker": "PGB",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "PGF Capital Bhd",
+    "ticker": "PGF",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Pantech Global Bhd.",
+    "ticker": "PGLOBAL",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Paragon Globe Berhad",
+    "ticker": "PGLOBE",
+    "sector": "Finance"
+  },
+  {
+    "name": "Pharmaniaga Bhd.",
+    "ticker": "PHARMA",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Pegasus Heights Bhd",
+    "ticker": "PHB",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Progressive Impact Corp. Bhd.",
+    "ticker": "PICORP",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "P.I.E. Industrial Bhd.",
+    "ticker": "PIE",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Pineapple Resources Bhd.",
+    "ticker": "PINEAPP",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Pinehill Pacific Bhd.",
+    "ticker": "PINEPAC",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Ping Edge Technology Berhad",
+    "ticker": "PING",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "PJBUMI BERHAD",
+    "ticker": "PJBUMI",
+    "sector": "Finance"
+  },
+  {
+    "name": "PeterLabs Holdings Bhd.",
+    "ticker": "PLABS",
+    "sector": "Process industries"
+  },
+  {
+    "name": "PLB Engineering Bhd.",
+    "ticker": "PLB",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Plenitude Bhd.",
+    "ticker": "PLENITU",
+    "sector": "Finance"
+  },
+  {
+    "name": "Prolintas Infra Business Trust",
+    "ticker": "PLINTAS",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "PLS Plantations Bhd.",
+    "ticker": "PLS",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "PLYTEC Holding Berhad",
+    "ticker": "PLYTEC",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "PMB Technology Bhd.",
+    "ticker": "PMBTECH",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "PMCK Berhad",
+    "ticker": "PMCK",
+    "sector": "Health services"
+  },
+  {
+    "name": "Pan Malaysia Corp. Bhd.",
+    "ticker": "PMCORP",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Press Metal Aluminium Holdings Berhad",
+    "ticker": "PMETAL",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Pan Merchant Bhd",
+    "ticker": "PMIBHD",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "PNE PCB Bhd.",
+    "ticker": "PNEPCB",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Poh Kong Holdings Bhd.",
+    "ticker": "POHKONG",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Poh Huat Resources Holdings Bhd.",
+    "ticker": "POHUAT",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Polydamic Group Bhd.",
+    "ticker": "POLYDM",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Pos Malaysia Bhd.",
+    "ticker": "POS",
+    "sector": "Transportation"
+  },
+  {
+    "name": "PPB Group Bhd.",
+    "ticker": "PPB",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Public Packages Holdings Bhd.",
+    "ticker": "PPHB",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Pappajack Bhd",
+    "ticker": "PPJACK",
+    "sector": "Finance"
+  },
+  {
+    "name": "Prestar Resources Bhd.",
+    "ticker": "PRESTAR",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "PRG Holdings Berhad",
+    "ticker": "PRG",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Privasia Technology Bhd.",
+    "ticker": "PRIVA",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Perak Corp. Bhd.",
+    "ticker": "PRKCORP",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Protasco Bhd.",
+    "ticker": "PRTASCO",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Pintaras Jaya Bhd.",
+    "ticker": "PTARAS",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Perak Transit Bhd.",
+    "ticker": "PTRANS",
+    "sector": "Transportation"
+  },
+  {
+    "name": "PT Resources Holdings Bhd.",
+    "ticker": "PTRB",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "PTT Synergy Group Bhd.",
+    "ticker": "PTT",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "PUC Bhd",
+    "ticker": "PUC",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Puncak Niaga Holdings Bhd.",
+    "ticker": "PUNCAK",
+    "sector": "Utilities"
+  },
+  {
+    "name": "PWF Corp. Bhd.",
+    "ticker": "PWF",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Power Root Bhd.",
+    "ticker": "PWROOT",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Powerwell Holdings Bhd.",
+    "ticker": "PWRWELL",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Qes Group Bhd",
+    "ticker": "QES",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "QL Resources Bhd.",
+    "ticker": "QL",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Quality Concrete Holdings Bhd.",
+    "ticker": "QUALITY",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Radium Development Bhd",
+    "ticker": "RADIUM",
+    "sector": "Finance"
+  },
+  {
+    "name": "Ralco Corp. Bhd.",
+    "ticker": "RALCO",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Ramssol Group Bhd.",
+    "ticker": "RAMSSOL",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Ranhill Utilities Bhd.",
+    "ticker": "RANHILL",
+    "sector": "Utilities"
+  },
+  {
+    "name": "Rapid Synergy Bhd.",
+    "ticker": "RAPID",
+    "sector": "Finance"
+  },
+  {
+    "name": "RCE Capital Bhd.",
+    "ticker": "RCECAP",
+    "sector": "Finance"
+  },
+  {
+    "name": "Reach Ten Holdings Berhad",
+    "ticker": "REACHTEN",
+    "sector": "Communications"
+  },
+  {
+    "name": "REDtone Digital Berhad",
+    "ticker": "REDTONE",
+    "sector": "Communications"
+  },
+  {
+    "name": "Rekatech Capital Bhd",
+    "ticker": "REKATECH",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Reneuco Bhd.",
+    "ticker": "RENEUCO",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Resintech Bhd.",
+    "ticker": "RESINTC",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Revenue Group Bhd.",
+    "ticker": "REVENUE",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Rex Industry Bhd.",
+    "ticker": "REX",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Rexit Bhd.",
+    "ticker": "REXIT",
+    "sector": "Technology services"
+  },
+  {
+    "name": "RGB International Bhd.",
+    "ticker": "RGB",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Ray Go Solar Holdings Bhd.",
+    "ticker": "RGS",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "RGT Bhd.",
+    "ticker": "RGTBHD",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Radiant Globaltech Bhd.",
+    "ticker": "RGTECH",
+    "sector": "Technology services"
+  },
+  {
+    "name": "RHB Bank Bhd.",
+    "ticker": "RHBBANK",
+    "sector": "Finance"
+  },
+  {
+    "name": "Rhone Ma Holdings Bhd.",
+    "ticker": "RHONEMA",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Rhong Khen International Bhd",
+    "ticker": "RKI",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Reservoir Link Energy Bhd",
+    "ticker": "RL",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Rohas Tecnic Bhd.",
+    "ticker": "ROHAS",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "RedPlanet Bhd",
+    "ticker": "RPLANET",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Rimbunan Sawit Bhd.",
+    "ticker": "RSAWIT",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Richtech Digital Berhad",
+    "ticker": "RTECH",
+    "sector": "Technology services"
+  },
+  {
+    "name": "RTS Technology Holdings Bhd",
+    "ticker": "RTSTECH",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Riverview Rubber Estates Bhd.",
+    "ticker": "RVIEW",
+    "sector": "Process industries"
+  },
+  {
+    "name": "S & F Capital Bhd.",
+    "ticker": "S&FCAP",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Southern Acids (Malaysia) Bhd.",
+    "ticker": "SAB",
+    "sector": "Miscellaneous"
+  },
+  {
+    "name": "Safetyware Group Bhd",
+    "ticker": "SAFETY",
+    "sector": "Health technology"
+  },
+  {
+    "name": "Signature Alliance Group Berhad",
+    "ticker": "SAG",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Salcon Bhd.",
+    "ticker": "SALCON",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Saliran Group Bhd",
+    "ticker": "SALIRAN",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Salutica Bhd.",
+    "ticker": "SALUTE",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "SAM Engineering & Equipment (M) Bhd",
+    "ticker": "SAM",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Samaiden Group Bhd",
+    "ticker": "SAMAIDEN",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Samchem Holdings Bhd.",
+    "ticker": "SAMCHEM",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Sanichi Technology Bhd.",
+    "ticker": "SANICHI",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Sapura Industrial Bhd.",
+    "ticker": "SAPIND",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Sapura Resources Bhd.",
+    "ticker": "SAPRES",
+    "sector": "Finance"
+  },
+  {
+    "name": "Sasbadi Holdings Bhd",
+    "ticker": "SASBADI",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Sungei Bagan Rubber Co. (Malaya) Bhd.",
+    "ticker": "SBAGAN",
+    "sector": "Process industries"
+  },
+  {
+    "name": "SBC Corporation Berhad",
+    "ticker": "SBCCORP",
+    "sector": "Finance"
+  },
+  {
+    "name": "SBH Marine Holdings Bhd.",
+    "ticker": "SBH",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Sik Cheong Berhad",
+    "ticker": "SCB",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "SC Estate Builder Bhd.",
+    "ticker": "SCBUILD",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "SCC Holdings Bhd.",
+    "ticker": "SCC",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Southern Cable Group Bhd.",
+    "ticker": "SCGBHD",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "SCGM Bhd.",
+    "ticker": "SCGM",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Sarawak Consolidated Industries Bhd.",
+    "ticker": "SCIB",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Scicom (MSC) Bhd.",
+    "ticker": "SCICOM",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Scientex Bhd.",
+    "ticker": "SCIENTX",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Scientex Packaging (Ayer Keroh) Bhd",
+    "ticker": "SCIPACK",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Scanwolf Corp. Bhd.",
+    "ticker": "SCNWOLF",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Supercomnet Technologies Bhd.",
+    "ticker": "SCOMNET",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Scope Industries Bhd.",
+    "ticker": "SCOPE",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Solar District Cooling Group Bhd.",
+    "ticker": "SDCG",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "SD Guthrie Bhd",
+    "ticker": "SDG",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Selangor Dredging Bhd.",
+    "ticker": "SDRED",
+    "sector": "Finance"
+  },
+  {
+    "name": "SDS Group Bhd.",
+    "ticker": "SDS",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Seacera Group Bhd.",
+    "ticker": "SEACERA",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Seal Incorporated Berhad",
+    "ticker": "SEAL",
+    "sector": "Finance"
+  },
+  {
+    "name": "Sealink International Bhd.",
+    "ticker": "SEALINK",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Seremban Engineering Bhd.",
+    "ticker": "SEB",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Sedania Innovator Bhd.",
+    "ticker": "SEDANIA",
+    "sector": "Communications"
+  },
+  {
+    "name": "See Hup Consolidated Bhd.",
+    "ticker": "SEEHUP",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Seers Bhd.",
+    "ticker": "SEERS",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "SEG International Bhd.",
+    "ticker": "SEG",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "7-Eleven Malaysia Holdings Bhd",
+    "ticker": "SEM",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "Eversendai Corp Bhd.",
+    "ticker": "SENDAI",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Seng Fong Holdings Bhd",
+    "ticker": "SENFONG",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Senheng New Retail Berhad",
+    "ticker": "SENHENG",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "Sern Kou Resources Bhd.",
+    "ticker": "SERNKOU",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Sersol Bhd.",
+    "ticker": "SERSOL",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Swift Energy Technology Bhd.",
+    "ticker": "SET",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "SFP Tech Holdings Bhd",
+    "ticker": "SFPTECH",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Saudigold Group Bhd",
+    "ticker": "SG",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Shangri-La Hotels Malaysia Bhd.",
+    "ticker": "SHANG",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Sin Heng Chan (Malaya) Bhd.",
+    "ticker": "SHCHAN",
+    "sector": "Process industries"
+  },
+  {
+    "name": "SHH Resources Holdings Bhd.",
+    "ticker": "SHH",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "SHL Consolidated Bhd.",
+    "ticker": "SHL",
+    "sector": "Finance"
+  },
+  {
+    "name": "Signature International Bhd.",
+    "ticker": "SIGN",
+    "sector": "Miscellaneous"
+  },
+  {
+    "name": "Sime Darby Bhd.",
+    "ticker": "SIME",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Sime Darby Property Bhd.",
+    "ticker": "SIMEPROP",
+    "sector": "Finance"
+  },
+  {
+    "name": "Sinaran Advance Group Bhd",
+    "ticker": "SINARAN",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Sin-Kung Logistics Bhd.",
+    "ticker": "SINKUNG",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Seni Jaya Corp. Bhd.",
+    "ticker": "SJC",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "SKB Shutters Corp. Bhd.",
+    "ticker": "SKBSHUT",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "SKP Resources Bhd.",
+    "ticker": "SKPRES",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Skygate Solutions Bhd",
+    "ticker": "SKYGATE",
+    "sector": "Finance"
+  },
+  {
+    "name": "Skyworld Development Bhd",
+    "ticker": "SKYWLD",
+    "sector": "Finance"
+  },
+  {
+    "name": "SL Innovation Capital Bhd.",
+    "ticker": "SLIC",
+    "sector": "Technology services"
+  },
+  {
+    "name": "SLP Resources Bhd.",
+    "ticker": "SLP",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Solarvest Holdings Bhd",
+    "ticker": "SLVEST",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Smart Asia Chemical Bhd",
+    "ticker": "SMART",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Sinmah Capital Bhd",
+    "ticker": "SMCAP",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Securemetric Berhad",
+    "ticker": "SMETRIC",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "South Malaysia Industries Bhd.",
+    "ticker": "SMI",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Smile-Link Healthcare Global Bhd.",
+    "ticker": "SMILE",
+    "sector": "Health services"
+  },
+  {
+    "name": "SMIS Corp. Bhd.",
+    "ticker": "SMISCOR",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "SMRT Holdings Berhad",
+    "ticker": "SMRT",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "SMTrack Bhd.",
+    "ticker": "SMTRACK",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Snowfit Group Bhd",
+    "ticker": "SNOWFIT",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "SNS Network Technology Bhd.",
+    "ticker": "SNS",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Sentoria Group Bhd.",
+    "ticker": "SNTORIA",
+    "sector": "Finance"
+  },
+  {
+    "name": "Solid Automotive Bhd.",
+    "ticker": "SOLID",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Solution Group Bhd",
+    "ticker": "SOLUTN",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Sarawak Oil Palms Bhd.",
+    "ticker": "SOP",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Sorento Capital Bhd.",
+    "ticker": "SORENTO",
+    "sector": "Finance"
+  },
+  {
+    "name": "Spring Art Holdings Bhd",
+    "ticker": "SPRING",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Spritzer Bhd.",
+    "ticker": "SPRITZER",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "S P Setia Bhd.",
+    "ticker": "SPSETIA",
+    "sector": "Finance"
+  },
+  {
+    "name": "Sports Toto Berhad",
+    "ticker": "SPTOTO",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Silver Ridge Holdings Bhd.",
+    "ticker": "SRIDGE",
+    "sector": "Communications"
+  },
+  {
+    "name": "Southern Score Builders Bhd.",
+    "ticker": "SSB8",
+    "sector": "Technology services"
+  },
+  {
+    "name": "SSF Home Group Bhd",
+    "ticker": "SSF",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "Southern Steel Bhd.",
+    "ticker": "SSTEEL",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Star Media Group Berhad",
+    "ticker": "STAR",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Straits Energy Resources Bhd",
+    "ticker": "STRAITS",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Subur Tiasa Holdings Bhd.",
+    "ticker": "SUBUR",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Success Transformer Corp. Bhd.",
+    "ticker": "SUCCESS",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Sumisaujana Group Berhad",
+    "ticker": "SUMI",
+    "sector": "Miscellaneous"
+  },
+  {
+    "name": "Sunway Construction Group Bhd.",
+    "ticker": "SUNCON",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "ES Sunlogy Berhad",
+    "ticker": "SUNLOGY",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Sunmow Holding Bhd",
+    "ticker": "SUNMOW",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Sunsuria Berhad",
+    "ticker": "SUNSURIA",
+    "sector": "Finance"
+  },
+  {
+    "name": "Sunview Group Bhd",
+    "ticker": "SUNVIEW",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Sunway Bhd.",
+    "ticker": "SUNWAY",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Sunzen Group Bhd",
+    "ticker": "SUNZEN",
+    "sector": "Health technology"
+  },
+  {
+    "name": "Superlon Holdings Bhd.",
+    "ticker": "SUPERLN",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Supermax Corp. Bhd.",
+    "ticker": "SUPERMX",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Supreme Consolidated Resources Bhd",
+    "ticker": "SUPREME",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Suria Capital Holdings Bhd.",
+    "ticker": "SURIA",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Swift Haulage Berhad",
+    "ticker": "SWIFT",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Sarawak Plantation Bhd.",
+    "ticker": "SWKPLNT",
+    "sector": "Process industries"
+  },
+  {
+    "name": "SWS Capital Bhd.",
+    "ticker": "SWSCAP",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Sycal Ventures Berhad",
+    "ticker": "SYCAL",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Shin Yang Group Bhd",
+    "ticker": "SYGROUP",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Symphony Life Bhd.",
+    "ticker": "SYMLIFE",
+    "sector": "Finance"
+  },
+  {
+    "name": "Synergy House Bhd",
+    "ticker": "SYNERGY",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Systech Bhd.",
+    "ticker": "SYSTECH",
+    "sector": "Technology services"
+  },
+  {
+    "name": "T7 Global Berhad",
+    "ticker": "T7GLOBAL",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Ta Ann Holdings Bhd.",
+    "ticker": "TAANN",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "TAFI Industries Bhd.",
+    "ticker": "TAFI",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Taghill Holdings Bhd",
+    "ticker": "TAGHILL",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Syarikat Takaful Malaysia Keluarga Bhd.",
+    "ticker": "TAKAFUL",
+    "sector": "Finance"
+  },
+  {
+    "name": "Talam Transform Berhad",
+    "ticker": "TALAMT",
+    "sector": "Finance"
+  },
+  {
+    "name": "Taliworks Corp. Bhd.",
+    "ticker": "TALIWRK",
+    "sector": "Utilities"
+  },
+  {
+    "name": "Tambun Indah Land Bhd.",
+    "ticker": "TAMBUN",
+    "sector": "Finance"
+  },
+  {
+    "name": "Tanco Holdings Bhd.",
+    "ticker": "TANCO",
+    "sector": "Finance"
+  },
+  {
+    "name": "TAS Offshore Bhd.",
+    "ticker": "TAS",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "TASCO Bhd",
+    "ticker": "TASCO",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Tashin Holdings Bhd.",
+    "ticker": "TASHIN",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "TA Win Holdings Bhd.",
+    "ticker": "TAWIN",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Tan Chong Motor Holdings Bhd.",
+    "ticker": "TCHONG",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "TCS Group Holdings Bhd",
+    "ticker": "TCS",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Technodex Bhd.",
+    "ticker": "TDEX",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "TDM Bhd.",
+    "ticker": "TDM",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Teck Guan Perdana Bhd.",
+    "ticker": "TECGUAN",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Techbase Industries Berhad",
+    "ticker": "TECHBASE",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Techbond Group Bhd.",
+    "ticker": "TECHBND",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Techna-X Bhd.",
+    "ticker": "TECHNAX",
+    "sector": "Process industries"
+  },
+  {
+    "name": "TECHSTORE BERHAD",
+    "ticker": "TECHSTORE",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Tek Seng Holdings Bhd.",
+    "ticker": "TEKSENG",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Teladan Group Bhd",
+    "ticker": "TELADAN",
+    "sector": "Finance"
+  },
+  {
+    "name": "Tenaga Nasional Bhd",
+    "ticker": "TENAGA",
+    "sector": "Utilities"
+  },
+  {
+    "name": "Teo Seng Capital Bhd.",
+    "ticker": "TEOSENG",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Texchem Resources Bhd.",
+    "ticker": "TEXCHEM",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Tex Cycle Technology (M) Bhd.",
+    "ticker": "TEXCYCL",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "TFP Solutions Bhd.",
+    "ticker": "TFP",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Teo Guan Lee Corp. Bhd.",
+    "ticker": "TGL",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "Thong Guan Industries Bhd.",
+    "ticker": "TGUAN",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Theta Edge Bhd.",
+    "ticker": "THETA",
+    "sector": "Technology services"
+  },
+  {
+    "name": "TH Plantations Bhd.",
+    "ticker": "THPLANT",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Thriven Global Bhd.",
+    "ticker": "THRIVEN",
+    "sector": "Finance"
+  },
+  {
+    "name": "Tien Wah Press Holdings Bhd.",
+    "ticker": "TIENWAH",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "TIME dotCom Bhd.",
+    "ticker": "TIMECOM",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Timberwell Bhd.",
+    "ticker": "TIMWELL",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Titijaya Land Bhd.",
+    "ticker": "TITIJYA",
+    "sector": "Finance"
+  },
+  {
+    "name": "Tuju Setia Bhd.",
+    "ticker": "TJSETIA",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Telekom Malaysia Bhd.",
+    "ticker": "TM",
+    "sector": "Communications"
+  },
+  {
+    "name": "TMC Life Sciences Bhd.",
+    "ticker": "TMCLIFE",
+    "sector": "Health services"
+  },
+  {
+    "name": "TMK Chemical Bhd",
+    "ticker": "TMK",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Tiong Nam Logistics Holdings Bhd.",
+    "ticker": "TNLOGIS",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Tomei Consolidated Bhd.",
+    "ticker": "TOMEI",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Tomypak Holdings Bhd.",
+    "ticker": "TOMYPAK",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Tong Herr Resources Bhd.",
+    "ticker": "TONGHER",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Top Glove Corporation Bhd.",
+    "ticker": "TOPGLOV",
+    "sector": "Health technology"
+  },
+  {
+    "name": "Topmix Bhd",
+    "ticker": "TOPMIX",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Topvision Eye Specialist Bhd",
+    "ticker": "TOPVISN",
+    "sector": "Health services"
+  },
+  {
+    "name": "Toyo Ventures Holdings Bhd.",
+    "ticker": "TOYOVEN",
+    "sector": "Process industries"
+  },
+  {
+    "name": "TPC Plus Bhd.",
+    "ticker": "TPC",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "TP Tec Holding Bhd.",
+    "ticker": "TPTEC",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "TRC Synergy Bhd.",
+    "ticker": "TRC",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Tri-Mode System (M) Bhd.",
+    "ticker": "TRIMODE",
+    "sector": "Transportation"
+  },
+  {
+    "name": "Trive Property Group Bhd.",
+    "ticker": "TRIVE",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Tropicana Corp. Bhd.",
+    "ticker": "TROP",
+    "sector": "Finance"
+  },
+  {
+    "name": "TSA Group Bhd",
+    "ticker": "TSA",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "TSH Resources Bhd.",
+    "ticker": "TSH",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "TSiC Bhd.",
+    "ticker": "TSIC",
+    "sector": "Miscellaneous"
+  },
+  {
+    "name": "TSR Capital Bhd.",
+    "ticker": "TSRCAP",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "TT Vision Holdings Bhd.",
+    "ticker": "TTVHB",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Tune Protect Group Bhd.",
+    "ticker": "TUNEPRO",
+    "sector": "Finance"
+  },
+  {
+    "name": "Turbo-Mech Bhd.",
+    "ticker": "TURBO",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Turiya Bhd.",
+    "ticker": "TURIYA",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "TWL Holdings Bhd",
+    "ticker": "TWL",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Txcd Bhd",
+    "ticker": "TXCD",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Uchi Technologies Bhd.",
+    "ticker": "UCHITEC",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "UCrest Bhd",
+    "ticker": "UCREST",
+    "sector": "Technology services"
+  },
+  {
+    "name": "UEM Sunrise Bhd.",
+    "ticker": "UEMS",
+    "sector": "Finance"
+  },
+  {
+    "name": "United U-LI Corp. Bhd.",
+    "ticker": "ULICORP",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "UMediC Group Bhd.",
+    "ticker": "UMC",
+    "sector": "Health technology"
+  },
+  {
+    "name": "United Malacca Bhd.",
+    "ticker": "UMCCA",
+    "sector": "Process industries"
+  },
+  {
+    "name": "UMS Holdings Bhd.",
+    "ticker": "UMS",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "UMS-Neiken Group Bhd.",
+    "ticker": "UMSNGB",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Unimech Group Bhd.",
+    "ticker": "UNIMECH",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Unique Fire Holdings Bhd",
+    "ticker": "UNIQUE",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Unisem (M) Bhd.",
+    "ticker": "UNISEM",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Unitrade Industries Bhd",
+    "ticker": "UNITRAD",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Uni Wall Aps Holdings Bhd",
+    "ticker": "UNIWALL",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "UOA Development Bhd.",
+    "ticker": "UOADEV",
+    "sector": "Finance"
+  },
+  {
+    "name": "UPA Corporation Bhd.",
+    "ticker": "UPA",
+    "sector": "Process industries"
+  },
+  {
+    "name": "UCI Resources Bhd.",
+    "ticker": "UTAMA",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "United Plantations Bhd.",
+    "ticker": "UTDPLT",
+    "sector": "Process industries"
+  },
+  {
+    "name": "UUE Holdings Berhad",
+    "ticker": "UUE",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "UWC Bhd.",
+    "ticker": "UWC",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Uzma Bhd.",
+    "ticker": "UZMA",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Vantris Energy Bhd",
+    "ticker": "VANTNRG",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Vanzo Holdings Bhd",
+    "ticker": "VANZO",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Varia Berhad",
+    "ticker": "VARIA",
+    "sector": "Finance"
+  },
+  {
+    "name": "Velesto Energy Bhd.",
+    "ticker": "VELESTO",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "VELOCITY CAPITAL PARTNER Bhd",
+    "ticker": "VELOCITY",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Versatile Creative Bhd.",
+    "ticker": "VERSATL",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Vinvest Capital Holdings Bhd",
+    "ticker": "VINVEST",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "VisDynamics Holdings Bhd.",
+    "ticker": "VIS",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Vitrox Corp. Bhd.",
+    "ticker": "VITROX",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Vizione Holdings Bhd.",
+    "ticker": "VIZIONE",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Vestland Bhd",
+    "ticker": "VLB",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Volcano Bhd.",
+    "ticker": "VOLCANO",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "V.S. Industry Bhd.",
+    "ticker": "VS",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Vsolar Group Bhd.",
+    "ticker": "VSOLAR",
+    "sector": "Technology services"
+  },
+  {
+    "name": "VSTECS Bhd.",
+    "ticker": "VSTECS",
+    "sector": "Technology services"
+  },
+  {
+    "name": "VETECE Holdings Berhad",
+    "ticker": "VTC",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Waja Konsortium Bhd",
+    "ticker": "WAJA",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Wang-Zheng Bhd.",
+    "ticker": "WANGZNG",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Warisan TC Holdings Bhd.",
+    "ticker": "WARISAN",
+    "sector": "Commercial services"
+  },
+  {
+    "name": "Wasco Berhad",
+    "ticker": "WASCO",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Watta Holding Bhd.",
+    "ticker": "WATTA",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "WaveFront Bhd",
+    "ticker": "WAVEFRNT",
+    "sector": "Process industries"
+  },
+  {
+    "name": "WCE Holdings Berhad",
+    "ticker": "WCEHB",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "WCT Holdings Bhd.",
+    "ticker": "WCT",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Wegmans Holdings Bhd.",
+    "ticker": "WEGMANS",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Wellcall Holdings Bhd.",
+    "ticker": "WELLCAL",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Well Chip Group Bhd.",
+    "ticker": "WELLCHIP",
+    "sector": "Retail trade"
+  },
+  {
+    "name": "Wellspire Holdings Bhd.",
+    "ticker": "WELLS",
+    "sector": "Distribution services"
+  },
+  {
+    "name": "Wentel Engineering Holdings Bhd.",
+    "ticker": "WENTEL",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "West River Bhd.",
+    "ticker": "WESTRVR",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Widad Group Bhd.",
+    "ticker": "WIDAD",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Willowglen MSC Bhd.",
+    "ticker": "WILLOW",
+    "sector": "Electronic technology"
+  },
+  {
+    "name": "Winstar Capital Bhd.",
+    "ticker": "WINSTAR",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Wong Engineering Corp. Bhd.",
+    "ticker": "WONG",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Woodlandor Holdings Bhd.",
+    "ticker": "WOODLAN",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Westports Holdings Bhd.",
+    "ticker": "WPRTS",
+    "sector": "Transportation"
+  },
+  {
+    "name": "WTEC GROUP BHD",
+    "ticker": "WTEC",
+    "sector": "Process industries"
+  },
+  {
+    "name": "White Horse Bhd.",
+    "ticker": "WTHORSE",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "WTK Holdings Bhd.",
+    "ticker": "WTK",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "XiDeLang Holdings Ltd.",
+    "ticker": "XDL",
+    "sector": "Consumer non-durables"
+  },
+  {
+    "name": "XIN Synergy Grp Bhd",
+    "ticker": "XIN",
+    "sector": "Non-energy minerals"
+  },
+  {
+    "name": "Xin Hwa Holdings Bhd.",
+    "ticker": "XINHWA",
+    "sector": "Transportation"
+  },
+  {
+    "name": "XL Holdings Bhd",
+    "ticker": "XL",
+    "sector": "Process industries"
+  },
+  {
+    "name": "XOX Bhd.",
+    "ticker": "XOX",
+    "sector": "Communications"
+  },
+  {
+    "name": "XOX NETWORKS BERHAD",
+    "ticker": "XOXNET",
+    "sector": "Consumer services"
+  },
+  {
+    "name": "Xox Technology Bhd",
+    "ticker": "XOXTECH",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Y&G Corporation Bhd.",
+    "ticker": "Y&G",
+    "sector": "Finance"
+  },
+  {
+    "name": "YB Ventures Bhd.",
+    "ticker": "YB",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "YBS International Bhd.",
+    "ticker": "YBS",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Yenher Holdings Bhd.",
+    "ticker": "YENHER",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Yew Lee Pacific Group Bhd.",
+    "ticker": "YEWLEE",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "YGL Convergence Bhd.",
+    "ticker": "YGL",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Yinson Holdings Bhd.",
+    "ticker": "YINSON",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "YLI Holdings Bhd.",
+    "ticker": "YLI",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "YNH Property Bhd.",
+    "ticker": "YNHPROP",
+    "sector": "Finance"
+  },
+  {
+    "name": "Yoong Onn Corp. Bhd.",
+    "ticker": "YOCB",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Yong Tai Bhd.",
+    "ticker": "YONGTAI",
+    "sector": "Finance"
+  },
+  {
+    "name": "Y.S.P. Southeast Asia Holding Bhd.",
+    "ticker": "YSPSAH",
+    "sector": "Health technology"
+  },
+  {
+    "name": "YTL Corp Bhd.",
+    "ticker": "YTL",
+    "sector": "Utilities"
+  },
+  {
+    "name": "YTL Power International Bhd.",
+    "ticker": "YTLPOWR",
+    "sector": "Utilities"
+  },
+  {
+    "name": "YX Precious Metals Bhd",
+    "ticker": "YXPM",
+    "sector": "Consumer durables"
+  },
+  {
+    "name": "Zantat Holdings Bhd.",
+    "ticker": "ZANTAT",
+    "sector": "Process industries"
+  },
+  {
+    "name": "Zecon Bhd.",
+    "ticker": "ZECON",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Zelan Bhd.",
+    "ticker": "ZELAN",
+    "sector": "Industrial services"
+  },
+  {
+    "name": "Zen Tech International Bhd",
+    "ticker": "ZENTECH",
+    "sector": "Producer manufacturing"
+  },
+  {
+    "name": "Zetrix AI Bhd",
+    "ticker": "ZETRIX",
+    "sector": "Technology services"
+  },
+  {
+    "name": "Zhulian Corporation Bhd.",
+    "ticker": "ZHULIAN",
+    "sector": "Producer manufacturing"
+  }
+]
