@@ -1,4 +1,4 @@
-name = "bursa-volume-spike-tracker"
+name = "bursa-volume-tracker"
 main = "cloudflare-worker.mjs"
 compatibility_date = "2026-05-19"
 
