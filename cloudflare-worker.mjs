@@ -13,39 +13,10 @@ export default {
       if (request.method === "POST" && url.pathname === "/api/check") {
         const body = await request.json().catch(() => ({}));
         const threshold = parsePositiveNumber(body.threshold, env.THRESHOLD_MULTIPLIER ?? 3);
-        const universe = await loadBursaUniverse(env);
         const offset = Math.max(0, Number(body.offset ?? 0));
         const requestedBatchSize = Number(body.batchSize ?? body.limit ?? DEFAULT_BATCH_SIZE);
         const batchSize = Math.min(Math.max(1, requestedBatchSize), DEFAULT_BATCH_SIZE);
-        const scanUniverse = universe.slice(offset, offset + batchSize);
-        const symbolCache = {};
-
-        const checkedAt = new Date().toISOString();
-        const results = await mapWithConcurrency(scanUniverse, DEFAULT_CONCURRENCY, async (company) => {
-          try {
-            return await analyzeCompany(company, threshold, symbolCache, env);
-          } catch (error) {
-            return {
-              ticker: company.ticker,
-              name: company.name,
-              sector: company.sector,
-              error: error.message
-            };
-          }
-        });
-
-        return jsonResponse({
-          checkedAt,
-          threshold,
-          source: "All Bursa companies from the auto-loaded company universe",
-          totalCompanies: universe.length,
-          checkedCompanies: scanUniverse.length,
-          offset,
-          nextOffset: offset + scanUniverse.length,
-          done: offset + scanUniverse.length >= universe.length,
-          results,
-          alerts: results.filter((result) => result.isSpike)
-        });
+        return jsonResponse(await scanBatch(env, threshold, offset, batchSize));
       }
 
       if (request.method === "POST" && url.pathname === "/api/send-alerts") {
@@ -74,8 +45,83 @@ export default {
     } catch (error) {
       return jsonResponse({ error: error.message }, 500);
     }
+  },
+
+  async scheduled(controller, env, ctx) {
+    ctx.waitUntil(runScheduledScanBatch(env, controller.scheduledTime));
   }
 };
+
+async function runScheduledScanBatch(env, scheduledTime) {
+  if (!env.SCAN_STATE) throw new Error("Missing SCAN_STATE KV binding.");
+  if (!env.ALERT_TO) throw new Error("Missing ALERT_TO.");
+  if (!env.RESEND_API_KEY) throw new Error("Missing RESEND_API_KEY secret.");
+
+  const dateKey = singaporeDateKey(scheduledTime);
+  const stateKey = `daily-scan:${dateKey}`;
+  const threshold = parsePositiveNumber(env.THRESHOLD_MULTIPLIER, 3);
+  const existing = await env.SCAN_STATE.get(stateKey, "json");
+  const state = existing ?? {
+    dateKey,
+    offset: 0,
+    totalCompanies: 0,
+    checkedCompanies: 0,
+    alerts: [],
+    startedAt: new Date(scheduledTime).toISOString(),
+    sent: false
+  };
+
+  if (state.sent) return;
+
+  const batch = await scanBatch(env, threshold, state.offset, DEFAULT_BATCH_SIZE);
+  state.totalCompanies = batch.totalCompanies;
+  state.checkedCompanies += batch.checkedCompanies;
+  state.offset = batch.nextOffset;
+  state.alerts.push(...batch.alerts);
+  state.lastCheckedAt = batch.checkedAt;
+
+  if (batch.done) {
+    await env.SCAN_STATE.put(stateKey, JSON.stringify(state), { expirationTtl: 60 * 60 * 24 * 14 });
+    const email = buildScheduledEmail(state.alerts, threshold, env.ALERT_TO, env, state);
+    await sendViaResend(email, env);
+    state.sent = true;
+    state.sentAt = new Date().toISOString();
+  }
+
+  await env.SCAN_STATE.put(stateKey, JSON.stringify(state), { expirationTtl: 60 * 60 * 24 * 14 });
+}
+
+async function scanBatch(env, threshold, offset, batchSize) {
+  const universe = await loadBursaUniverse(env);
+  const scanUniverse = universe.slice(offset, offset + batchSize);
+  const symbolCache = {};
+  const checkedAt = new Date().toISOString();
+  const results = await mapWithConcurrency(scanUniverse, DEFAULT_CONCURRENCY, async (company) => {
+    try {
+      return await analyzeCompany(company, threshold, symbolCache, env);
+    } catch (error) {
+      return {
+        ticker: company.ticker,
+        name: company.name,
+        sector: company.sector,
+        error: error.message
+      };
+    }
+  });
+
+  return {
+    checkedAt,
+    threshold,
+    source: "All Bursa companies from the auto-loaded company universe",
+    totalCompanies: universe.length,
+    checkedCompanies: scanUniverse.length,
+    offset,
+    nextOffset: offset + scanUniverse.length,
+    done: offset + scanUniverse.length >= universe.length,
+    results,
+    alerts: results.filter((result) => result.isSpike)
+  };
+}
 
 async function analyzeCompany(company, threshold, symbolCache, env) {
   const yahooSymbol = await resolveYahooSymbol(company, symbolCache, env);
@@ -192,6 +238,34 @@ function buildEmail(alerts, threshold, to, env) {
         ].join("\n")
       )
     ].join("\n\n")
+  };
+}
+
+function buildScheduledEmail(alerts, threshold, to, env, state) {
+  return {
+    from: env.ALERT_FROM,
+    to,
+    subject: `[Bursa Daily Alert] ${alerts.length} volume spike${alerts.length === 1 ? "" : "s"} on ${state.dateKey}`,
+    text: [
+      `Daily Bursa volume spike scan for ${state.dateKey}`,
+      "",
+      `Rule: latest trading volume >= ${threshold}x the average of the previous 20 trading days.`,
+      `Companies checked: ${state.checkedCompanies} of ${state.totalCompanies}`,
+      `Scan started: ${state.startedAt}`,
+      `Scan completed: ${state.lastCheckedAt}`,
+      "",
+      alerts.length ? "Alerts:" : "No volume spike alerts found.",
+      "",
+      ...alerts.map((alert, index) =>
+        [
+          `${index + 1}. ${alert.ticker} - ${alert.name ?? ""}`.trim(),
+          `Market date: ${alert.tradingDate}`,
+          `Latest volume: ${formatNumber(alert.latestVolume)}`,
+          `20-day average volume: ${formatNumber(alert.averageVolume)}`,
+          `Spike multiple: ${Number(alert.multiple).toFixed(2)}x`
+        ].join("\n")
+      )
+    ].join("\n")
   };
 }
 
@@ -401,6 +475,15 @@ function htmlResponse(html) {
 function parsePositiveNumber(value, fallback) {
   const number = Number(value);
   return Number.isFinite(number) && number > 0 ? number : Number(fallback);
+}
+
+function singaporeDateKey(timestamp) {
+  return new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Singapore",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit"
+  }).format(new Date(timestamp));
 }
 
 function formatNumber(value) {

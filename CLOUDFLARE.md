@@ -25,11 +25,40 @@ Login:
 wrangler login
 ```
 
+Create the KV namespace used to store daily scan progress:
+
+```powershell
+wrangler kv namespace create SCAN_STATE
+wrangler kv namespace create SCAN_STATE --preview
+```
+
+Copy the returned `id` and `preview_id` into `wrangler.toml`:
+
+```toml
+[[kv_namespaces]]
+binding = "SCAN_STATE"
+id = "your-production-kv-id"
+preview_id = "your-preview-kv-id"
+```
+
 Deploy:
 
 ```powershell
 wrangler deploy
 ```
+
+## Daily 4 PM Scan
+
+`wrangler.toml` includes a cron trigger:
+
+```toml
+[triggers]
+crons = ["* 8-9 * * *"]
+```
+
+Cloudflare cron is in UTC. `08:00 UTC` is `4:00 PM` in Singapore.
+
+The Worker runs every minute between `4:00 PM` and `5:59 PM` Singapore time because Cloudflare Workers have outbound request limits. Each tick scans a safe batch of companies, saves progress in KV, and sends the daily email once all Bursa companies have been scanned.
 
 ## Email Alerts
 
@@ -50,8 +79,8 @@ ALERT_TO = "your@email.com"
 
 Your `ALERT_FROM` domain must be verified in Resend.
 
-If `RESEND_API_KEY` is not configured, the Worker returns a `mailto:` fallback that opens an email draft.
+If `RESEND_API_KEY` is not configured, manual email sends return a `mailto:` fallback that opens an email draft. The scheduled daily scan requires `RESEND_API_KEY`, because there is no browser available to open a draft.
 
 ## Notes
 
-The first full scan can take a few minutes because each Bursa company must be resolved to a Yahoo Finance symbol and checked for daily volume. Cloudflare request duration limits vary by plan; if the full scan times out, add a scheduled workflow or split scans into batches.
+The full scan is intentionally split into batches to avoid Cloudflare's per-invocation subrequest limit.
